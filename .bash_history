@@ -1,78 +1,3 @@
-git config --global user.email "motorex745@gmail.com"git config --global user.name "Yassine745"
-git add .
-clear
-git config --global user.email "motorex745@gmail.com"
-git config --global user.name "Yassine745"
-ls
-git add .
-echo "My first readme" > README.md
-cat README.md
-git config --global user.email "motorex745@gmail.com"
-git config --global user.name "Yassine745"
-git add .
-git init 
-git add .
-reset -f
-reset -r
-reset -e
-h
-clear
-cd ..
-git clone https://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@github.com/Yassine745/alx-zero_day.git 
-ls
-cd alx-zero_day
-ls
-git add .
-git commit =0-
-reset
-ee
-exit
-ls
-cd alx-zero_day
-ls
-git add .
-git commit -m "zababa"
-git push
-clear
-git add .
-cd ..
-reset
-cd alx-system_engineering-devops
-ls
-cd 0x01-shell_permissions
-mkdir 0x01-shell_permissions
-clear
-vi 0-iam_betty
-cat 0-iam_betty
-git add .
-clear
-cd 0x01-shell_permissions
-ls
-clear
-vi 0-iam_betty
-git add .
-git commit -m "Shell permissions Updated"
-git push
-git push --set-upstream origin master
-git push
-clear
-cd ..
-git config --global user.email "motorex745@gmail.com"
-git config --global user.name "Yassine745"
-cd 0x01-shell_permissions
-clear
-ls
-git push
-clear
-ls
-touch "Read me" > README.md
-ls
-echo "Read me" > README.md
-ls
-vi 0-iam_betty
-chmod u+x *
-ls
-chmod u-x README.md
 ls
 chmod u-x 'Read me'
 ls
@@ -1998,3 +1923,78 @@ git push
 clear
 git pull --rebase origin master
 git log
+git fetch origin main:tmp
+cd alx-low_level_programming
+cd git fetch origin main:tmp
+git fetch origin main:tmp
+git rebase tmp
+git push origin HEAD:main
+git pull
+git push origin main
+git push origin HEAD:main
+git add .
+git commit -m "HELLO"
+git push
+git push origin HEAD:master
+clear
+cd 0x07-pointers_arrays_strings
+ls
+git add .
+git commit -m "Even more pointers arrays and strings"
+git push
+git add .
+git commit -m "Even more pointers arrays and strings"
+git push origin HEAD:master
+vi 0-memset.c
+git add .
+git commit -m "Even more pointers arrays and strings"
+git push origin HEAD:master
+git push
+clear
+git add .
+git commit -m "Even more pointers arrays and strings"
+git push
+git push origin HEAD:master
+cd ..
+clear
+git init
+git status
+git add .
+git commit -m "first commit"
+git branch -m main
+git remote add origin https://github.com/Yassine745/alx-low_level_programming.git
+git push -u origin main
+git clone https://github.com/Yassine745/alx-low_level_programming.git
+ls
+git add .
+git commit -m "first commit"
+git push
+git push --set-upstream origin main
+clear
+ls
+cd alx-low_level_programming
+ls
+cd 0x07-pointers_arrays_strings
+git fetch origin
+git merge origin/master
+git push origin master
+clear
+git add .
+git commit -m "HELLO"
+git push
+git fetch main
+git branch -m main master
+git fetch origin
+git branch -u origin/master master
+git remote set-head origin -a
+git fetch origin
+git merge origin/master
+git push origin master
+git branch
+git fetch origin
+git pull
+git push
+git clone https://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@github.com/Yassine745/alx-low_level_programming.git 
+git pull
+git push 
+clear
