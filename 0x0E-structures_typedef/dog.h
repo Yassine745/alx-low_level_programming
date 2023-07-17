@@ -6,7 +6,7 @@
  * @name: First member
  * @age: Second member
  * @owner: Third member
- * 
+ *
  * Description: Longer description
  */
 struct dog
@@ -29,3 +29,4 @@ char *_strcpy(char *dest, char *src);
 int _strlen(char *s);
 
 #endif
+
