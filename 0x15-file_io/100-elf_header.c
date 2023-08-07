@@ -92,7 +92,7 @@ void print_class(unsigned char *e_ident)
  * @e_ident: A pointer to an array containing the ELF class.
  */
 void print_data(unsigned char *e_ident)
-i{
+{
 	printf("  Data:                              ");
 
 	switch (e_ident[EI_DATA])
