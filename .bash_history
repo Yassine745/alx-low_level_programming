@@ -1,1860 +1,3 @@
-ls
-chmod u-x 'Read me'
-ls
-git add .
-git commit -m "Shell permissions Updated"
-git push
-vi 1-who_am_i
-vi 2-groups
-vi 3-new_owner
-vi 4-empty
-vi 5-execute
-vi 6-multiple_permissions
-vi 7-everybody
-vi 8-James_Bond
-vi 9-John_Doe
-vi 10-mirror_permissions
-ls
-git commit -m "Shell permissions Updated"
-git add .
-git commit -m "Shell permissions Updated"
-git push
-vi 2-groups
-ls
-chmod u+x *
-ls
-chmod u-x README.md
-ls
-git add .
-git commit -m "Shell permissions Updated"
-git push
-vi 1-who_am_i
-git add .
-git commit -m "Shell permissions Updated"
-git push
-vi 1-who_am_i
-git add .
-git commit -m "finished"
-git push
-vim 1-who_am_i
-git add .
-git commit -m "finished"
-git push
-clear
-cd ..
-clear
-mkdir 0x01-shell_permissions
-cd 0x01-shell_permissions
-ls
-vi 1-who_am_i
-cat 1-who_am_i
-git add .
-git commit -m "Shell permissions updated"
-git push
-vi 1-who_am_i
-git add .
-git commit -m "1-who_am_i"
-git push
-vi 1-who_am_i
-vi 2-groups
-vi 3-new_owner
-vi 4-empty
-vi 5-execute
-vi 6-multiple_permissions
-vi 7-everybody
-vi 8-James_Bond
-vi 9-John_Doe
-vi 10-mirror_permissions
-vi 11-directories_permissions
-vi 12-directory_permissions
-vi 13-change_group
-vi 100-change_owner_and_group
-vi 101-symbolic_link_permissions
-vi 102-if_only
-vi 103-Star_Wars
-clear
-ls
-chmod u+x *
-ls
-chmod u-x README.md
-ls
-git add .
-gitcommit -m "Sell Permissions Updated"
-git add .
-git commit -m "Sell Permissions Updated"
-git push
-vi 3-new_owner
-git push
-git add .
-git commit -m "Sell Permissions Updated"
-git push
-gt push
-git push
-vi 6-multiple_permissions
-git add .
-git commit -m "Sell Permissions Updated"
-git push
-vi 6-multiple_permissions
-git add .
-git commit -m "Sell Permissions Updated"
-git push
-vi 6-multiple_permissions
-git add .
-git commit -m "Sell Permissions Updated"
-git push
-clear
-cd ..
-cd..
-cd ..
-clear
-git clone https://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@github.com/Yassine745/zero_day.git
-cd zero_day
-ls
-echo "My first readme" > README.md
-ls
-git config --global user.email "motorex745@gmail.com"
-git config --global user.name "Yassine745"
-git add .
-git commit -m " This file is mandatory in projects"
-git push
-clear
-cd ..
-clear
-cd alx-zero_day
-cd 0x03-git
-ls
-echo up_to_date "How to be up to date in git" >> README.md
-ls
-cat README.md
-git add .
-git commit -m "My second commit"
-git push
-cd ..
-git clone https://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@github.com/Yassine745/alx-zero_day.git
-alx-zero_day
-cd alx-zero_dayalx-zero_day
-clear
-cd alx-zero_day
-ls
-git config --global user.email "motorex745@gmail.com"
-git config --global user.name "Yassine745"
-ls
-cd 0x03-git
-ls
-git add .
-git commit -m "My second commit"
-git push
-clear
-cd ..
-cd..
-exit
-cd ..
-exit 
-exit
-cd zero_day
-mkdir 0x00-vagrant
-cd 0x00-vagrant
-vi README.md
-uname
-uname -a
-u=$(uname)
-echo $u > 0-hello_ubuntu
-cat 0-hello_ubuntu
-cd -
-git add .
-git commit -m "My second commit"
-git push
-clear
-cd alx-zero_day
-cd 0x03-git
-cat README.md
-git pull
-"git config --global"
-cat README
-ls
-vi up_to_date
-cat up_to_date
-git add .
-git commit -m "How to be up to date in git"
-git push
-git add .
-git commit -m "How to be up to date in git"
-git pull
-clear
-ls
-cd alx-system_engineering-devops
-ls
-git config --global user.email "motorex745@gmail.com"
-git config --global user.name "Yassine745"
-clear
-touch "Yassine745" > README.md
-mkdir 0x00-shell_basics
-cd 0x00-shell_basics
-touch "Yassine745" > README.md
-cd -
-ls
-rm Yassine745
-cd 0x00-shell_basics
-ls
-rm Yassine745
-echo "readme" > README.md
-cd ..
-echo "readme" > README.md
-ls
-cd 0x00-shell_basics
-vi 0-current_working_directory
-cd ..
-git add .
-ls
-cd 0x00-shell_basics
-chmod +x 0-current_working_directory
-ls
-cd ..
-git add .
-cd 0x00-shell_basics
-git add .
-git commit -m "a"
-git push
-clear
-vi 1-listit
-chmod +x 1-listit
-./1-listit
-git add . && git commit -m "a" && git push
-git push
-git add . && git commit -m "a" && git push
-git push
-ls
-git push
-git add .
-git add . && git commit -m "a" && git add . && git commit -m "a" && clear]
-git push
-git add .
-git add . && git commit -m "a" && git push
-git commit -m "a"
-vi 1-listit
-chmod +x 1-listit
-./1-listit
-git add . && git commit -m "a" && git push
-vi 2-bring_me_home
-chmod +x 2-bring_me_home
-git add . && git commit -m "a" && git push
-vi 3-listfiles
-chmod 3-listfiles
-chmod +x 3-listfiles
-ls
-git add . && git commit -m "a" && git push
-chmod 3-listfiles
-chmod + 3-listfiles
-ls
-git add . && git commit -m "a" && git push
-git add .
-git add . && git commit -m "a" && git push
-ls
-git add .
-vi 3-listfiles
-chmod +x 3-listfiles
-ls
-git add . && git commit -m "a" && git push
-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 
-ls
-git add . && git commit -m "a" && git push
-git add .
-vi 3-listfiles
-chmod +x 3-listfiles
-ls
-git add . && git commit -m "a" && git push
-clear
-vi 3-listfiles
-chmod +x 3-listfiles
-ls
-git add . && git commit -m "a" && git push
-git add . && git commit -m "a" && :"
-i:>>
-l\
-;]
-clear
-cd alx-system_engineering-devops
-cd 0x00-shell_basics
-ls
-vi 3-listfiles
-chmod +x 3-listfiles
-ls
-git add . && git commit -m "a" && git push
-vi 4-listmorefiles
-chmod +x 4-listmorefiles
-git add . && git commit -m "a" && git push
-vi 5-listfilesdigitonly
-chmod +x 5-listfilesdigitonly
-git add . && git commit -m "a" && git push
-vi 6-firstdirectory
-chmod +x 6-firstdirectory
-git add . && git commit -m "a" && git push
-vi 6-firstdirectory
-chmod +x 6-firstdirectory
-git add . && git commit -m "a" && git push
-vi 7-movethatfile
-chmod +x 7-movethatfile
-git add . && git commit -m "a" && git push
-vi 8-firstdelete
-chmod 8-firstdelete
-chmod +x 8-firstdelete
-git add . && git commit -m "a" && git push
-vi 9-firstdirdeletion
-chmod +x 9-firstdirdeletion
-git add . && git commit -m "a" && git push
-vi 10-back
-chmod +x vi 10-back
-chmod +x 10-back
-git add . && git commit -m "a" && git push
-vi 11-lists
-chmod +x vi 11-lists
-chmod +x 11-lists
-git add . && git commit -m "a" && git push
-vi 11-lists
-chmod +x 11-lists
-git add . && git commit -m "a" && git push
-vi 11-lists
-chmod +x 11-lists
-git add . && git commit -m "a" && git push
-vi 11-lists
-vi 12-file_type
-c
-chmod +x 12-file_type
-c12-file_type
-git add . && git commit -m "a" && git push
-vi 13-symbolic_link
-chmod 13-symbolic_link
-chmod +x 13-symbolic_link
-git add . && git commit -m "a" && git push
-vi 13-symbolic_link
-chmod +x 13-symbolic_link
-git add . && git commit -m "a" && git push
-vi 14-copy_html
-chmod +x 14-copy_html
-git add . && git commit -m "a" && git push
-vi 14-copy_html
-chmod 14-copy_html
-chmod +x 14-copy_html
-git add . && git commit -m "a" && git push
-git push
-vi 14-copy_html
-chmod +x 14-copy_html
-git add . && git commit -m "a" && git push
-vi 100-lets_move
-chmod +x 100-lets_move
-git add . && git commit -m "a" && git push
-vi 100-lets_move
-chmod +x 100-lets_move
-git add . && git commit -m "a" && git push
-vi 101-clean_emacs
-chmod +x 101-clean_emacs
-git add . && git commit -m "a" && git push
-vi 101-clean_emacs
-chmod +x 101-clean_emacs
-git add . && git commit -m "a" && git push
-vi 101-clean_emacs
-chmod +x 101-clean_emacs
-git add . && git commit -m "a" && git push
-vi 102-tree
-chmod +x 102-tree
-git add . && git commit -m "a" && git push
-vi 102-tree
-git add . && git commit -m "a" && git push
-chmod +x 102-tree
-git add . && git commit -m "a" && git push
-git add .
-git commit -m "a" 
-git push
-vim 102-tree
-chmod +x 101-clean_emacs
-git commit -m "101-clean_emacs"
-git puah
-git add.
-git add .
-git push
-vi 102-tree
-chmod +x 102-tree
-git add . && git commit -m "a" && git push
-vi 101-clean_emacs
-chmod +x 101-clean_emacs
-git add . && git commit -m "a" && git push
-vi 103-commas
-chmod +x 103-commas
-git add . && git commit -m "a" && git push
-chmod +x 103-commas
-git add . && git commit -m "a" && git push
-vi 103-commas
-chmod +x 103-commas
-git add . && git commit -m "a" && git push
-git add .
-chmod +x 103-commas
-git add . && git commit -m "a" && git push
-git push
-vi school.mgc
-clear
-ls
-file -C -m shcool
-file -c -m school
-file -C -m school
-rm school
-ls
-git add . && git commit -m "a" && git push
-vi school.mgc
-git add .
-git add . && git commit -m "a" && git push
-vim school.mgc
-vi 19. File type: School
-clear
-ls
-vi school.mgc
-file -C -m school.mgc
-ls
-git add .
-git commit -m "File type: School"
-git push
-git add .
-vi school.mgc
-file -C -m school.mgc
-ls
-clear
-git add .
-git commit -m "File type: School"
-git push
-vi 0x00-shell_basics
-file -C -m school.mgc
-cat school.mgc
-git add .
-git commit -m "school"
-git push
-clear
-exit
-cd root
-cd alx-system_engineering-devops
-cd 0x00-shell_basics
-ls
-vi 11-lists
-git add .
-git commit -m "a"
-git push
-git commit -m "a"
-git push
-clear
-ls
-vi 11-lists
-chmod x+ 11-lists
-chmod +x 11-lists
-ls
-git add .
-git commit -m "a"
-git push
-exit
-alx-system_engineering-devops
-cd alx-system_engineering-devops
-clear
-0x00-shell_basics
-cd 0x00-shell_basics
-clear
-ls
-vi 11-lists
-vi 11-lists\
-clear
-ls
-vi 11-lists
-chmod +x 11-lists
-git add . && git commit -m "a" && git push
-git add .
-git push
-clear
-vi school.mgc
-chmod +x school.mgc
-git add .
-git push
-vi school.mgc
-$ echo '0 string SCHOOL' > school.mgc
-touch school.mgc
-echo '0 string SCHOOL' > school.mgc
-cat school.mgc
-ls
-git add .
-git push 
-vim school.mgc
-chmod +x school.mgc
-ls
-git add .
-git commit -m "File type: School"
-git push 
-clear
-vi school.mgc
-file -C -m school.mgc
-ls
-git add .
-git commit -m "school.mgc"
-git push
-clear
-exit
-cd alx-system_engineering-devops
-ls
-mkdir 0x02-shell_redirections
-cd 0x02-shell_redirections
-echo "this is my readme file" > README.md
-cat README.md
-vi 0-hello_world
-git add .
-git commit -m "my first commit"
-chmod +x 0-hello_world
-cd ..
-git commit -m "my first commit"
-git add .
-cd 0x02-shell_redirections
-chmod +x 0-hello_world
-git commit -m "my first commit"
-ls
-git commit -m "my first commit"
-vi  0-hello_world
-chmod +x 0-hello_world
-git commit -m "my first commit"
-git push
-vi 0-hello_world
-cd ..
-git add .
-ls
-cd 0x02-shell_redirections
-git add .
-git commit -m "my first commit"
-git push
-clear
-ls
-cd 0x02-shell_redirections
-ls
-cat README.md
-vi 0-hello_world
-git add .
-git commit -m "My first commit"
-git push
-chmod +x 0-hello_world
-git add .
-git commit -m "My first commit"
-cd ..
-git commit -m "My first commit"
-ls
-cleat
-clear
-mkkkklkkkkkkkkkk
-clear
-mkdir 0x02-shell_redirections
-cd 0x02-shell_redirections
-echo "0x02. Shell, I/O Redirections and filters
-DevOps
-Shell
-Bash
-cd 0x02-shell_redirections
-clear"clea| clear]
-clearecho "0x02. Shell, I/O Redirections and filters
-clear[
-clearecho "0x02. Shell, I/O Redirections and filters
-clear[; clear|
-clear
-echo "0x02. Shell, I/O Redirections and filters" > README.md
-ls
-cat README.md
-vi 0-hello_world
-vi 1-confused_smiley
-vi 2-hellofile
-vi 3-twofiles
-vi 4-lastlines
-vi 5-firstlines
-vi 6-third_line
-vi 8-cwd_state
-ls
-chmod u+x *
-chmod u-x README.md
-git add .
-git commit -m "Shell Redirections and filters" 
-git push 
-clear
-ls
-git add .
-git commit -m "Shell, I/O Redirections and filters"
-git push
-clear
-ls
-git add .
-git commit -m "Shell Redirections and filters" 
-chmod clear
-clear
-ls
-chmod u+x *
-chmod u+x README.md
-git add .
-git commit -m "Shell Redirections and filters"
-git push 
-clear
-vi 4-lastlines
-vi 5-firstlines
-vi 6-third_line
-vi 7-file
-vi 6-third_line
-vi 7-file
-vi 8-cwd_state
-vi 9-duplicate_last_line
-vi 10-no_more_js
-vi 11-directories
-vi 12-newest_files
-vi 13-unique
-vi 14-findthatword
-vi 15-countthatword
-vi 16-whatsnext
-vi 17-hidethisword
-vi 18-letteronly
-vi 19-AZ
-vi 20-hiago
-vi 21-reverse
-vi 22-users_and_homes
-vi 100-empty_casks100-empty_casks
-vi 100-empty_casks
-vi 101-gifs
-vi 102-acrostic
-vi 103-the_biggest_fan
-ls
-chmod u+x *
-chmod u-x README.md
-git add .
-git commit -m "Shell Redirections and filters" 
-git push
-clear
-ls
-cd alx-system_engineering-devops
-mkdir 0x03-shell_variables_expansions
-cd 0x03-shell_variables_expansions
-ls
-la
-ls
-vi 0-alias
-vi README.md
-ls
-vi 0-alias
-chmod u+x * 
-ls
-chmod u-x README.md
-ls
-git add .
-git commit -m "Shell init files variables and expansions"
-git push
-vi 1-hello_you
-vi 2-path
-vi 3-paths
-vi 4-global_variables
-vi 5-local_variables
-vi 6-create_local_variable
-vi 7-create_global_variable
-vi 8-true_knowledge
-vi 9-divide_and_rule
-vi 10-love_exponent_breath
-vi 11-binary_to_decimal
-vi 12-combinations
-vi 13-print_float
-vi 100-decimal_to_hexadecimal
-vi 101-rot13
-vi 102-odd
-vi 103-water_and_stir
-chmdo u+x 
-#!/bin/bash
-echo $(printf %o $(($((5#$(echo $WATER | tr 'water' '01234'))) + $((5#$(echo $STIR | tr 'stir.' '01234'))))) | tr '01234567' 'bestchol')
-chmod u+x *
-ls
-git add .
-git commit -m "Shell init files variables and expansions"
-git push
-clear
-vi 6-create_local_variable
-chmod u+x *
-ls
-chmod u-x README.md
-ls
-git add .
-git commit -m "Shell init files variables and expansions"
-git push
-vi 6-create_local_variable
-chmod u+x *
-ls
-chmod u-x README.md
-git add .
-git commit -m "Shell init files variables and expansions"
-git push
-git add .
-git push
-clear
-exit
-ls
-git clone https://github.com/alx-tools/Betty.git
-cd betty/
-cd betty
-cd Betty
-sudo ./install.sh
-vi Betty
-chmod a+x betty
-chmod a+x Betty
-sudo mv betty /bin/
-sudo mv Betty /bin/
-cd -
-ls
-git clone https://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@github.com/Yassine745/alx-low_level_programming.git
-cd alx-low_level_programming
-git config --global user.email "motorex745@gmail.com"
-git config --global user.name "Yassine745"
-clear
-ls
-echo "README FILE" > README.md
-ls
-mkdir 0x00-hello_world
-cd 0x00-hello_world
-echo "This is readme" > README.md
-ls
-vi 0-preprocessor
-chmod +x 0-preprocessor
-ls
-cd -
-clear
-ls
-git add .
-git commit -m "My first commit"
-git push
-vi 0-preprocessor
-ls
-cd 0x00-hello_world
-vi 0-preprocessor
-clear\
-clear
-cd alx-low_level_programming
-mkdir 0x00-hello_world
-cd 0x00-hello_world
-vi 0-preprocessor
-ls
-vi 0-preprocessor
-ls
-chmod +x 0-preprocessor
-ls
-cd -
-git add .
-git commit -m "My first commit"
-git push
-vi 1-compiler
-chmod +x 1-compiler
-git add .
-cd 0x00-hello_world
-vi 1-compiler
-chmod +x 1-compiler
-git add .
-git commit -m "My first commit"
-git push
-vi 2-assembler
-chmod +x 1-compiler
-chmod 2-assembler
-chmod +x 2-assembler
-git add .
-git commit -m "My first commit"
-git push
-vi 3-name
-chmod +x vi 3-name
-chmod +x 3-name
-git add .
-git commit -m "My first commit"
-git push
-vi 4-puts.c
-Betty 4-puts.c
-betty 4-puts.c
-Betty 4-puts.c
-vi 4-puts.c
-Betty 4-puts.c
-chmod +x 4-puts.c
-git add .
-git commit -m "My first commit"
-git push
-vi 5-printf.c
-Betty vi 5-printf.c
-Betty 5-printf.c
-vi 5-printf.c
-Betty 5-printf.c
-vi 5-printf.c
-Betty 5-printf.c
-vi 5-printf.c
-Betty 5-printf.c
-chmod +x 5-printf.c
-git add .
-git commit -m "a"
-git push
-vi 5-printf.c
-Betty 5-printf.c
-vi 5-printf.c
-Betty 5-printf.c
-vi 5-printf.c
-Betty 5-printf.c
-betty 5-printf.c
-vi 5-printf
-vi 5-printf.c
-chmod a+x 5-printf.c
-ls
-git add .
-git commit -m "Hello,World"
-git push
-vi 5-printf.c
-betty
-betty 5-printf.c
-chmod a+x 5-printf.c
-ls
-git add .
-git commit -m "Hello,World"
-git push
-vi 6-size.c
-betty 6-size.c
-Betty 6-size.c
-vi 6-size.c
-betty 6-size.c
-vi 6-size.c
-betty 6-size.c
-vi 6-size.c
-betty 6-size.c\
-betty 6-size.c
-vi 6-size.c
-betty 6-size.c
-vi 6-size.c
-betty 6-size.c
-ls
-chmod a+x -m "a"
-chmod a+x -m "Hello,World"
-chmod a+x 6-size.c
-git add .
-git commit -m "Hello,World"
-git push
-vi 6-size.c
-Betty 6-size.c
-chmod a+x 6-size.c
-git add .
-git commit -m "Hello,World"
-git push
-vi 6-size.c
-betty 6-size.c
-ls
-chmod +x 6-size.c
-git add .
-git commit -m "My first commit"
-git push
-vi 6-size.c
-betty 6-size.c
-chmod +x 6-size.c
-git add .
-git commit -m "My first commit"
-git push
-vi 100-intel
-chmod +x #!/bin/bash
-gcc -S -masm=intel $CFILE
-chmod +x 100-intel
-betty 100-intel
-chmod +x 100-intel
-git add .
-git commit -m "My first commit"
-git push
-vi 101-quote.c
-betty 101-quote.c
-vi 101-quote.c
-betty 101-quote.c
-vi 101-quote.c
-betty 101-quote.c
-vi 101-quote.c
-betty 101-quote.c
-vi 101-quote.c
-betty 101-quote.c
-vi 101-quote.c
-betty 101-quote.c
-vi 101-quote.c
-betty 101-quote.c
-chmod +x 101-quote.c
-git add .
-git commit -m "My first commit"
-git push
-vi 101-quote.c
-chmod +x 
-#include <stdio.h>
-#include <unistd.h>
-/**
-* main - Entry point
-*
-* Return: Always 1 (Success)
-*/
-int main(void)
-{ write(2,
-"and that piece of art is useful\" - Dora Korpar, 2015-10-19\n", 59);
-return (1);
-}
-rm -r
-ls
-chmod +x  101-quote.c
-git add .
-git commit -m "101-quote.c"
-git push
-clear
-exit
-cd alx-low_level_programming
-mkdir 0x01-variables_if_else_while
-cd 0x01-variables_if_else_while
-echo "readme" > README.md
-ls
-vi 0-positive_or_negative.c
-Betty  0-positive_or_negative.c
-vi  0-positive_or_negative.c
-betty  0-positive_or_negative.c
-cd ..
-git add .
-git commit -m "a"
-git push
-vi 1-last_digit.c
-betty 1-last_digit.c
-vi 1-last_digit.c
-cd alx-low_level_programming
-cd 0x01-variables_if_else_while
-ls
-vi 1-last_digit.c
-betty 1-last_digit.c
-vi 1-last_digit.c
-betty 1-last_digit.c
-vi 0-positive_or_negative.c
-vi vi 1-last_digit.c
-vi 1-last_digit.c
-betty 1-last_digit.c
-vi 1-last_digit.c
-betty 1-last_digit.c
-vi 1-last_digit.c
-betty 1-last_digit.c
-vi 1-last_digit.c
-betty 1-last_digit.c
-vi 1-last_digit.c
-betty 1-last_digit.c
-vi 1-last_digit.c
-betty 1-last_digit.c
-vi 1-last_digit.c
-betty 1-last_digit.c
-vi 1-last_digit.c
-betty 1-last_digit.c
-vi 1-last_digit.c
-betty 1-last_digit.c
-ls
-git add .
-ls
-exit
-ls
-cd alx-low_level_programming
-ls
-cd 0x01-variables_if_else_while
-ls
-vi 1-last_digit.c
-gcc -Wall -pedantic -Werror -Wextra -std=gnu89 2-print_alphabet.c -o 2-print_alphabet
-ls
-gcc -Wall -pedantic -Werror -Wextra -std=gnu89 1-last_digit.c -o 1-last_digit
-ls
-betty 1-last_digit.c
-git add .
-git commit -m "C - Variables, if, else, while"
-git push
-vi 2-print_alphabet.c
-gcc -Wall -pedantic -Werror -Wextra -std=gnu89 2-print_alphabet.c -o 2-print_alphabet
-betty 2-print_alphabet.c
-vi 4-print_alphabt.c
-vi 3-print_alphabets.c
-gcc -Wall -pedantic -Werror -Wextra -std=gnu89 3-print_alphabets.c -o 3-print_alphabets
-vi 4-print_alphabt.c
-betty 4-print_alphabt.c
-betty 3-print_alphabets.c
-gcc -Wall -pedantic -Werror -Wextra -std=gnu89 4-print_alphabt.c -o 4-print_alphabt
-betty 4-print_alphabt.c
-vi 5-print_numbers.c
-gcc -Wall -pedantic -Werror -Wextra -std=gnu89 5-print_numbers.c -o 5-print_numbers
-vi 6-print_numberz.c
-betty 5-print_numbers.c
-betty 6-print_numberz.c
-gcc -Wall -pedantic -Werror -Wextra -std=gnu89 6-print_numberz.c -o 6-print_numberz
-betty 6-print_numberz.c
-git add .
-git commit -m "C - Variables, if, else, while"
-git push
-vi 7-print_tebahpla.c
-gcc -Wall -pedantic -Werror -Wextra -std=gnu89 7-print_tebahpla.c -o 7-print_tebahpla
-betty 7-print_tebahpla.c
-vi 8-print_base16.c
-gcc -Wall -pedantic -Werror -Wextra -std=gnu89 8-print_base16.c -o 8-print_base16
-betty 8-print_base16.c
-vi 9-print_comb.c
-gcc -Wall -pedantic -Werror -Wextra -std=gnu89 9-print_comb.c -o 9-print_comb
-betty 9-print_comb.c
-vi 100-print_comb3.c
-gcc -Wall -pedantic -Werror -Wextra -std=gnu89 100-print_comb3.c -o 100-print_comb3
-betty 100-print_comb3.c
-vi 101-print_comb4.c
-gcc -Wall -pedantic -Werror -Wextra -std=gnu89 101-print_comb4.c -o 101-print_comb4
-betty 101-print_comb4.c
-vi 102-print_comb5.c
-gcc -Wall -pedantic -Werror -Wextra -std=gnu89 102-print_comb5.c -o 102-print_comb5
-betty 102-print_comb5.c
-git add .
-git commit -m "C - Variables, if, else, while"
-git add .
-git commit -m "C - Variables, if, else, while"
-git push
-clear
-ls
-exit
-cd alx-low_level_programming
-cd 0x00-hello_world
-ls
-vi 101-quote.c
-vi 100-intel
-clear
-cd ..
-cd 0x01-variables_if_else_while
-ls
-vi 102-print_comb5.c
-vi 101-print_comb4.c
-vi 100-print_comb3.c
-ls
-git add .
-git commit -m "C - Variables, if, else, while"
-git commit -a"
-
-{
-
-clear{}
-[
-]
-clear[
-
-
-0
-
-ls
-cd alx-low_level_programming
-cd 0x02-functions_nested_loops
-mkdir 0x02-functions_nested_loops
-cd 0x02-functions_nested_loops
-ls
-echo "My first readme" > README.md
-echo "readme" > README.md
-ls
-vi main.h
-vi _putchar.c
-ls
-vi 0-putchar.c
-betty 0-putchar.c
-git add .
-git commit -m "Functions, nested loops"
-git push
-vi 1-alphabet.c
-betty 1-alphabet.c
-vi 1-main.c
-betty 1-main.c
-vi 1-main.c
-betty 1-main.c
-vi 2-print_alphabet_x10.c
-betty #include "main.h"
-/**
-* print_alphabet_x10 - prints 10 times the alphabet, in lowercase,
-* followed by a new line
-*/
-void print_alphabet_x10(void)
-{ char ch; int i; i = 0; while (i < 10); { ch = 'a'; while (ch <= 'z'); { _putchar(ch);
-ch++;
-}
-_putchar('\n');
-i++;
-}
-betty 2-print_alphabet_x10.c
-vi 2-main.c
-betty #include "main.h"
-/**
-int main(void)
-{     print_alphabet_x10();
-betty 2-main.c
-vi 2-main.c
-betty 2-main.c
-vi 2-main.c
-betty 2-main.c
-vi 2-main.c
-betty 2-main.c
-vi 3-islower.c
-betty 3-islower.c
-vi 3-main.c
-betty 3-main.c
-vi 3-main.c
-betty 3-main.c
-4-isalpha.c
-vi 4-isalpha.c
-ls
-betty 4-isalpha.c
-vi 4-main.c
-betty 4-main.c
-ls
-vi 5-sign.c
-betty 5-sign.c
-vi 5-sign.c
-betty 5-sign.c
-vi 5-sign.c
-betty else if (n < 0)
-betty 5-sign.c
-vi 5-sign.c
-betty 5-sign.c
-vi 5-sign.c
-betty 5-sign.c
-vi 5-sign.c
-betty 5-sign.c
-vi 5-sign.c
-betty 5-sign.c
-vi 5-sign.c
-betty 5-sign.c
-vi 5-sign.c
-betty 5-sign.c 
-vi 5-sign.c
-betty 5-sign.c
-vi 5-sign.c
-betty 5-sign.c
-vi 5-sign.c
-ls
-git add .
-git commit -m "Functions, nested loops" 
-git push
-clear
-exit
-ls
-cd alx-low_level_programming
-cd 0x02-functions_nested_loops
-vi 5-sign.c
-betty 5-sign.c
-vi 5-sign.c
-betty 5-sign.c
-vi 5-sign.c
-betty 5-sign.c
-vi 5-sign.c
-betty 5-sign.c
-vi 5-sign.c
-betty 5-sign.c
-vi 5-sign.c
-betty 5-sign.c
-vi 5-sign.c
-betty 5-sign.c
-vi 5-sign.c
-betty 5-sign.c
-vi 5-main.c
-betty 5-main.c
-vi 5-main.c
-betty 5-main.c
-ls
-vi 5-main.c
-vi 6-abs.c
-betty 6-abs.c
-vi 6-main.c
-betty 6-main.c
-vi 7-print_last_digit.c
-betty #include "main.h"
-/**
-* print_last_digit - prints the last digit of a number
-* @n: the int to extract the last digit from
-* Return: value of the last digit
-*/
-int print_last_digit(int n)
-{ int a; if (n < 0); n = -n; a = n % 10; if (a < 0); a = -a; _putchar(a + '0');
-return (a);
-}
-betty 7-print_last_digit.c
-vi 7-main.c
-betty 7-main.c
-vi 8-24_hours.c
-betty 8-24_hours.c
-vi 8-main.c
-betty 8-main.c
-vi 9-times_table.c
-betty 9-times_table.c
-vi 9-main.c
-betty 9-main.c
-vi 9-main.c
-betty 9-main.c
-betty 8-main.c
-vi 8-main.c
-betty 8-main.c
-vi 10-add.c
-betty 10-add.c
-vi 10-main.c
-betty 10-main.c
-vi 10-main.c
-betty 10-main.c
-vi 11-print_to_98.c
-betty 11-print_to_98.c
-vi 11-main.c
-betty 11-main.c
-vi 100-times_table.c
-betty 100-times_table.c
-vi 100-main.c
-betty 100-main.c
-vi 100-main.c
-betty 100-main.c
-vi 100-main.c
-betty 100-main.c
-vi 100-main.c
-betty 100-main.c
-vi 100-main.c
-betty 100-main.c
-vi 100-main.c
-betty 100-main.c
-vi 100-main.c
-betty 100-main.c
-vi 100-main.c
-betty 100-main.c
-ls
-vi 101-natural.c
-betty 101-natural.c
-vi 102-fibonacci.c
-betty 102-fibonacci.c
-vi 103-fibonacci.c
-betty 103-fibonacci.c
-vi 104-fibonacci.c
-betty 104-fibonacci.c
-ls
-git add .
-git commit -m "Functions, nested loops"
-git push
-clear
-ls
-exit
-ls
-cd alx-low_level_programming
-mkdir 0x03-debugging
-cd 0x03-debugging
-echo "readme" > README.md
-ls
-vi main.h
-vi 0-main.c
-betty 0-main.c
-vi 0-main.c
-betty 0-main.c
-vi 0-main.c
-vi #include "main.h"
-cd alx-low_level_programming
-cd 0x03-debugging
-ls
-vi main.h
-vi 0-main.c
-betty 0-main.c
-vi 0-main.c
-betty 0-main.c
-cd ..
-git add .
-git commit -m "a"
-git push
-cd 0x03-debugging
-git add .
-git commit -m "a"
-git push
-betty main.h
-betty 0-main.c
-vi 0-main.c
-betty 0-main.c
-vi 0-main.c
-betty 0-main.c
-vi 0-main.c
-betty 0-main.c
-vi main.h
-betty main.h
-ls
-git add .
-git commit -m "a"
-git push
-vi 1-main.c
-betty 1-main.c
-git add .
-git commit -m "a"
-git push
-clear
-vi README.md
-vi main.h
-vi 0-main.c
-vi main.c
-ls
-git add .
-git commit -m "a"
-git push
-betty main.c
-betty 0-main.c
-betty main.h
-git add .
-git commit -m "Debugging"
-git commit -m "a"
-git commit -m "Debugging"
-git push
-clear
-vi 1-main.c
-betty 1-main.c
-gcc -std=gnu89 1-main.c -o 1-main
-git add .
-git commit -m "Debugging"
-git commit -m "a"
-git push
-betty 1-main.c
-vi 1-main.c
-betty 1-main.c
-vi 1-main.c
-betty 1-main.c
-git add .
-git commit -m "a"
-git push
-clear
-vi main.h
-betty main.h
-vi main.c
-betty main.c
-cd ..
-git add .
-git commit -m "a"
-git push
-vi 1-main.c
-betty 1-main.c
-git add .
-git commit -m "a"
-git push
-mv 1-main.c 0x03-debugging/
-git add .
-git commit -m "a"
-git push
-cd 0x03-debugging
-vi main.h
-betty main.h
-vi main.h
-betty main.h
-ls
-git add .
-git commit -m "a"
-git push
-exit
-cd alx-low_level_programming
-cd 0x03-debugging
-ls
-vi 2-largest_number.c
-betty 2-largest_number.c
-vi 2-largest_number.c
-betty 2-largest_number.c
-vi main.h
-betty cmain.h
-betty main.h
-vi main.h
-betty main.h
-vi main.h
-betty main.h
-vi main.h
-vi 3-print_remaining_days.c
-betty 3-print_remaining_days.c
-ls
-vi 3-main_a.c
-betty 3-main_a.c
-gcc -Wall -Werror -Wextra -pedantic -std=gnu89 3-convert_day.c 3-print_remaining_days.c 3-main_a.c -o 3-main_a
-git add .
-git commit -m "a"
-git push
-vi 3-print_remaining_days.c
-cat 3-main_a.c
-vi 3-main_a.c
-betty 3-main_a.c
-vi 3-convert_day.c
-betty 3-convert_day.c
-gcc -Wall -Werror -Wextra -pedantic -std=gnu89 3-convert_day.c 3-print_remaining_days.c 3-main_b.c -o 3-main_b
-git add .
-git commit -m "a"
-git push
-exit
-ls
-cd 0x03-debugging
-mkdir 0x03-debugging
-cd 0x03-debugging
-cd alx-low_level_programming
-cd ..
-cd alx-low_level_programming
-cd 0x03-debugging
-echo "readme" > README.md
-ls
-vi README.md
-vi main.h
-betty main.h
-vi 0-main
-vi 0-main.c
-ls
-git add .
-git commit -m "0-main.c" 
-git push
-swnquhmMpeEvMKDeIooDhrW4GED37
-git commit -m "0-main.c"
-git push
-cc -Wall -pedantic -Werror -Wextra -std=gnu89 positive_or_negative.c main.c
-git add .
-git commit -m "0-main.c"
-git push
-vi 0-main.c
-betty 0-main.c
-git add ,
-git add .
-git commit -m "0-main.c"
-git push
-vi main.h
-betty main.h
-git add .
-git commit -m "0-main.c"
-git push
-exit
-cd alx-low_level_programming
-cd 0x03-debugging
-ls
-vi 3-print_remaining_days.c
-betty 3-print_remaining_days.c
-cat 3-convert_day.c
-vi 3-convert_day.c
-betty 3-convert_day.c
-vi 3-main_a.c
-betty 3-main_a.c
-ls
-git add .
-ls
-cc -Wall -Werror -Wextra -pedantic -std=gnu89 3-convert_day.c 3-print_remaining_days.c 3-main_b.c -o 3-main_b
-git add .
-git commit -m "a"
-git push
-cd 1-main.c
-vi 1-main.c
-betty 1-main.c
-git add .
-ls
-gcc -std=gnu89 1-main.c -o 1-main
-git add .
-git commit -m "a"
-git push
-vi 1-main.c
-betty 1-main.c
-cat 1-main.c
-gcc -std=gnu89 1-main.c -o 1-main
-./1-main
-git add .
-git commit -m "a"
-git push
-./1-main
-Infinite loop incoming :(
-Infinite loop avoided! \o/
-wc -l 1-main.c
-ls
-git add .
-git commit -m "a"
-git push
-vi 1-main.c
-betty 1-main.c
-cat 1-main.c
-gcc -std=gnu89 1-main.c -o 1-main
-./1-main
-wc -l 1-main.c
-ls
-git add .
-git commit -m "a"
-git push
-vi 1-main.c
-betty 1-main.c
-vi 1-main.c
-betty 1-main.c
-gcc -std=gnu89 1-main.c -o 1-main
-ls
-git add .
-git commit -m "a"
-git push
-cat 1-main.c
-wc -l 1-main.c
-git add .
-git commit -m "a"
-git push
-git pus
-git push
-clear
-vi 0-main.c
-betty 0-main.c\
-betty 0-main.c
-vi 0-main.c
-betty 0-main.c
-vi 0-main.c
-betty 0-main.c
-ls
-git add .
-git commit -m "a"
-git push
-clear
-cat main.c
-vi main.c
-betty main.c
-cat main.h
-vi main.h
-betty #ifndef MAIN_H
-#define MAIN_H
-#include <stdio.h>
-void positive_or_negative(int i);
-betty main.h
-vi 0-main.c
-betty 0-main.c
-gcc -Wall -pedantic -Werror -Wextra -std=gnu89 positive_or_negative.c main.c
-./a.out
-gcc -Wall -pedantic -Werror -Wextra -std=gnu89 positive_or_negative.c 0-main.c -o 0-main
-./0-main
-wc -l 0-main.c
-ls
-git add .
-git commit -m "a"
-git push
-vi main.h
-betty main.h
-git add .
-git commit -m "a"
-git push
-clear
-exit
-cd alx-low_level_programming
-mkdir 0x04-more_functions_nested_loops
-cd 0x04-more_functions_nested_loops
-echo "readme" > README.md
-ls
-vi README.md
-ls
-vi 0-isupper.c
-betty 0-isupper.c
-gcc -Wall -pedantic -Werror -Wextra -std=gnu89 0-main.c 0-isupper.c -o 0-isuper
-/0-isuper
-ls
-git add .
-git commit -m "a"
-git push
-clear
-vi 0-isupper.c
-betty 0-isupper.c
-vi _putchar.c
-betty _putchar.c
-vi main.h
-betty main.h
-vi main.h
-vi _putchar.c
-gcc -Wall -pedantic -Werror -Wextra -std=gnu89 0-main.c 0-isupper.c -o 0-isuper
-ls
-git add .
-git commit -m "HELLO"
-git push
-vi 1-isdigit.c
-betty 1-isdigit.c
-vi 1-main.c
-betty 1-main.c
-gcc -Wall -pedantic -Werror -Wextra -std=gnu89 1-main.c 1-isdigit.c -o 1-isdigit
-git add .
-git commit -m "HELLO"
-git push
-vi 2-mul.c
-betty 2-mul.c
-vi 2-main.c
-betty 2-main.c
-git add .
-gcc -Wall -pedantic -Werror -Wextra -std=gnu89 2-main.c 2-mul.c -o 2-mul
-git add .
-git commit -m "HELLO"
-git push
-vi 3-print_numbers.c
-betty 3-print_numbers.c
-vi 3-main.c
-betty 3-main.c
-vi 3-main.c
-betty 3-main.c
-gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 3-main.c 3-print_numbers.c -o 3-print_numbers
-git add .
-git commit -m "HELLO"
-git push
-vi 4-print_most_numbers.c
-betty 4-print_most_numbers.c
-vi 4-main.c
-betty 4-main.c
-git add .
-git commit -m "HELLO"
-git push
-clear
-vi 5-more_numbers.c
-betty 5-more_numbers.c
-vi 5-main.c
-betty 5-main.c
-git add .
-git commit -m "HELLO"
-git push
-vi 6-print_line.c
-betty 6-print_line.c
-vi 6-print_line.c
-betty 6-print_line.c
-vi 6-print_line.c
-betty 6-print_line.c
-vi 6-print_line.c
-betty 6-print_line.c
-vi 6-print_line.c
-betty 6-print_line.c
-vi 6-main.c
-betty 6-main.c
-git add .
-git commit -m "HELLO"
-git push
-clear
-vi 6-print_line.c
-betty 6-print_line.c
-vi 6-main.c
-betty 6-main.c
-gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 6-main.c 6-print_line.c -o 6-lines
-git add .
-git commit -m "HELLO"
-git push
-vi 6-main.c
-betty 6-main.c
-vi 6-main.c
-betty 6-main.c
-gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 6-main.c 6-print_line.c -o 6-lines
-git add .
-git commit -m "HELLO"
-git push
-clear
-vi 7-print_diagonal.c
-betty 7-print_diagonal.c
-vi 7-print_diagonal.c
-betty 7-print_diagonal.c
-vi 7-print_diagonal.c
-betty 7-print_diagonal.c
-vi 7-print_diagonal.c
-betty 7-print_diagonal.c
-vi 7-print_diagonal.c
-betty 7-print_diagonal.c
-vi 7-print_diagonal.c
-betty 7-print_diagonal.c
-vi 7-main.c
-betty 7-main.c
-git add .
-git commit -m "HELLO"
-git push
-vi 7-print_diagonal.c
-vi 7-main.c
-git add .
-git commit -m "Hello"
-git push
-vi 8-print_square.c
-betty 8-print_square.c
-vi 8-main.c
-betty 8-main.c
-git add .
-git commit -m "HELLO"
-git push
-vi 9-fizz_buzz.c
-betty 9-fizz_buzz.c
-git add .
-git commit -m "HELLO"
-git push
-vi 10-print_triangle.c
-betty 10-print_triangle.c
-vi 10-main.c
-betty 10-main.c
-vi 10-main.c
-betty #include "main.h"
-/**
-* main - check the code
-*
-* Return: Always 0.
-*/
-int main(void)
-{ print_triangle(2);
-print_triangle(10);
-print_triangle(1);
-print_triangle(0);
-return (0);
-}
-bettu
-betty 10-main.c
-git add .
-git commit -m "HELLO"
-git push
-clear
-vi 100-prime_factor.c
-betty 100-prime_factor.c
-git add .
-git commit -m "HELLO"
-git push
-vi 101-print_number.c
-betty 101-print_number.c
-vi 101-main.c
-betty 101-main.c
-git add .
-git commit -m "HELLO"
-git push
-clear
-vi 6-print_line.c
-betty 6-print_line.c
-vi 6-main.c
-betty 6-main.c
-gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 6-main.c 6-print_line.c -o 6-lines
-git add .
-git commit -m "HELLO"
-git push
-vi 6-print_line.c
-betty 6-print_line.c
-git add .
-git commit -m "HELLO"
-git push
-clear
-exit
-cd alx-low_level_programming
-mkdir 0x05-pointers_arrays_strings
-cd 0x05-pointers_arrays_strings
-ls
-echo "readme" > README.md
-ls
-vi README.md
-vi main.h
-betty main.h
-vi 0-reset_to_98.c
-betty 0-reset_to_98.c
-vi 0-main.c
-betty 0-main.c
-vi 0-main.c
-betty 0-main.c
-vi 0-main.c
-betty 0-main.c
-vi 0-main.c
-betty 0-main.c
-vi 0-main.c
-betty 0-main.c
-vi 0-main.c
-betty 0-main.c
-ls
-git add .
-git commit -m "Pointers, arrays and strings"
-git push
-clear
-vi 1-swap.c
-betty 1-swap.c
-git add .
-git commit -m "Pointers, arrays and strings"
-git push
-vi 2-strlen.c
-betty 2-strlen.c
-vi 3-puts.c
-betty 3-puts.c
-vi 4-print_rev.c
-betty 4-print_rev.c
-vi 5-rev_string.c
-betty 5-rev_string.c
-vi 6-puts2.c
-betty 6-puts2.c
-vi 7-puts_half.c
-betty 7-puts_half.c
-vi 8-print_array.c
-betty 8-print_array.c
-vi 9-strcpy.c
-betty 9-strcpy.c
-vi 100-atoi.c
-betty 100-atoi.c
-vi 101-keygen.c
-betty 101-keygen.c
-ls
-git add .
-git commit -m "Pointers, arrays and strings"
-git push
-clear
-ls
-exit
-clear
-ls
-cd alx-low_level_programming
-ls
-mkdir 0x06-pointers_arrays_strings
-cd 0x06-pointers_arrays_strings
-vi README.md
-vi main.h
-vi _putchar.c
-betty vi _putchar.c
-betty _putchar.c
-vi _putchar.c
-betty _putchar.c
-vi 0-strcat.c
-betty 0-strcat.c
-vi 1-strncat.c
-betty 1-strncat.c
-vi 2-strncpy.c
-betty 2-strncpy.c
-vi 3-strcmp.c
-betty 3-strcmp.c
-vi 4-rev_array.c
-betty 4-rev_array.c
-vi 5-string_toupper.c
-betty 5-string_toupper.c
-vi 6-cap_string.c
-betty 6-cap_string.c
-vi 7-leet.c
-betty 7-leet.c
-vi 100-rot13.c
-betty 100-rot13.c
-vi 101-print_number.c
-betty 101-print_number.c
-vi 102-magic.c
-betty 102-magic.c
-vi 103-infinite_add.c
-betty 103-infinite_add.c
-vi 104-print_buffer.c
-betty 104-print_buffer.c
-ls
-clear
-ls
-git add .
-gitcommit -m "Hello c "
-git commit -m "Hello c"
-git push
-exit
-ls
-cd 0x06-pointers_arrays_strings
-cd alx-low_level_programming
-cd 0x06-pointers_arrays_strings
-ls
-clear
-exit
-cd 0x06-pointers_arrays_strings
-cd alx-low_level_programming
-cd 0x06-pointers_arrays_strings
-ls
-vi 102-magic.c
-betty 102-magic.c
-vi 102-magic.c
-betty 102-magic.c
-vi 102-magic.c
-betty 102-magic.c
-vi 102-magic.c
-cd alx-low_level_programming
-cd 0x06-pointers_arrays_strings
-vi 102-magic.c
-cd alx-low_level_programming
-mkdir 0x07-pointers_arrays_strings
-cd 0x07-pointers_arrays_strings
-vi main.h
-betty main.h
-vi _putchar.c
-betty _putchar.c
-vi 0-memset.c
-betty 0-memset.c
-ls
-git add .
-git commit -m "Even more pointers arrays and strings"
-git push
-cd ..
-vi 0-memset.c
-betty 0-memset.c
-git add .
-echo "readme" > README.md
-vi README.md
-ls
-git commit -m "Even more pointers arrays and strings"
-git push
-git push --help
-git statut
-git status
 git remote -v
 git push
 git fetch origin main:tmp
@@ -1998,3 +141,1860 @@ git clone https://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@github.com/Yassine745
 git pull
 git push 
 clear
+ls
+git add .
+git commit -m "Hello"
+GIT PUSH
+git push
+git push --set-upstream origin main
+cd alx-low_level_programming
+cd 0x07-pointers_arrays_strings
+ls
+git add .
+git commit -m "HELLO"
+git push
+git push 
+git push
+git push 
+clear
+ls
+git add .
+git commit -m "HELLO"
+git commit -m "Even more pointers arrays and strings"
+clear
+cd ..
+cd alx-low_level_programming
+cd 0x07-pointers_arrays_strings
+git clone https://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@github.com/Yassine745/alx-low_level_programming.git 
+cd ..
+git clone https://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@github.com/Yassine745/alx-low_level_programming.git 
+cd 0x07-pointers_arrays_strings
+0x07-pointers_arrays_strings
+git clone https://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@github.com/Yassine745/alx-low_level_programming.git 
+ls
+git add .
+git commit -m "Even more pointers arrays and strings"
+git push
+git clone https://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@github.com/Yassine745/alx-low_level_programming.git 
+git add .
+git commit -m "HELLO"
+git commit -m "HHDS"
+git commit -m "HELLO"
+clear
+ls
+git pull
+git merge remote/master
+git add README.md
+clear
+git fetch origin
+git merge origin/master
+git fetch origin
+git push origin master
+git clone https://github.com/Yassine745/alx-low_level_programming.git
+gitpull
+git pull
+reset --hard commit-before-the-merge
+clear
+reset --hard 
+git reset --hard commit-before-the-merge
+git reset --merge HEAD~1
+clear
+$ git reset --hard <commit-before-merge>
+git reset --hard <commit-before-merge>
+git reset --hard HEAD~1
+git branch
+git status
+git pull
+git push
+clear
+git checkout master
+git fetch origin
+git merge origin/master
+git status
+git add <file>
+git add .
+git commit -m "Merge changes from origin/master and track untracked files"
+git add 0x06-pointers_arrays_strings/102-magic.c
+git commit -m "Merge changes from origin/master and resolve conflicts"
+clear
+ls
+rm -r alx-low_level_programming
+la
+clear
+la
+vi README.md
+git add .
+git commit -m "Hello"
+clear
+git status
+git add 0x06-pointers_arrays_strings/102-magic.c
+git commit -m "Resolve conflicts"
+git push origin master
+clear
+git clone https://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@github.com/Yassine745/alx-low_level_programming.git 
+ls
+git add .
+git commit -m "Hello"
+git push
+git checkout master
+git log
+git branch branch_backup <commit>
+git reset --hard <commit>
+cd ..
+clear
+git reset --hard <commit>
+ls
+cd 0x06-pointers_arrays_strings
+clear
+ls
+git checkout master
+git status
+git add 0x06-pointers_arrays_strings/102-magic.c
+git pull
+clear
+git checkout master
+git fetch origin
+git merge origin/master
+git add 102-magic.c
+git commit
+git push origin master
+cd ..
+git reset
+clear
+cd /root
+clear
+git clone https://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@github.com/Yassine745/alx-low_level_programming.git
+ls
+cd alx-low_level_programming
+ls
+cd 0x07-pointers_arrays_strings
+ls
+vi 0-main.c
+ls
+betty 0-memset.c
+la
+ls
+clear
+git add .
+git commit -m "Hello"
+git push
+ls
+vi 1-memcpy.c
+betty 1-memcpy.c
+vi 2-strchr.c
+betty 2-strchr.c
+vi 3-strspn.c
+betty 3-strspn.c
+vi 4-strpbrk.c
+betty 4-strpbrk.c
+vi 5-strstr.c
+betty 5-strstr.c
+vi 7-print_chessboard.c
+betty 7-print_chessboard.c
+vi 8-print_diagsums.c
+betty 8-print_diagsums.c
+vi 100-set_string.c
+betty 100-set_string.c
+vi 101-crackme_password
+vi 1-main.c
+betty 1-main.c
+vi 2-main.c
+betty 2-main.c
+vi 3-main.c
+betty 3-main.c
+vi 4-main.c
+betty 4-main.c
+vi 5-main.c
+betty 5-main.c
+vi 7-main.c
+betty 7-main.c
+vi 8-main.c
+betty 8-main.c
+vi 100-main.c
+betty 100-main.c
+ls
+git add .
+git commit -m "Even more pointers arrays and strings"
+git push
+clear
+cat > 101-crackme_password
+chmod u+x 101-crackme_password
+git add 101-crackme_password
+git commit -m "101-crackme_password"
+git push
+ls
+clear
+exit
+cd alx-low_level_programming
+cd 0x07-pointers_arrays_strings
+clear
+sudo apt install libssl-dev
+sudo nano /etc/apt/sources.list
+sudo apt update
+sudo apt install libssl1.0.0
+exit
+cd alx-low_level_programming
+mkdir 0x08-recursion
+cd 0x08-recursion
+echo "readme" > README.md
+vi README.md
+ls
+vi 0-puts_recursion.c
+vi main.h
+vi _putchar.c
+betty _putchar.c
+vi 0-puts_recursion.c
+betty 0-puts_recursion.c
+vi 1-print_rev_recursion.c
+betty 1-print_rev_recursion.c
+vi 2-strlen_recursion.c
+betty 2-strlen_recursion.c
+vi 3-factorial.c
+betty 3-factorial.c
+vi 4-pow_recursion.c
+betty 4-pow_recursion.c
+vi 5-sqrt_recursion.c
+betty 5-sqrt_recursion.c
+vi 6-is_prime_number.c
+betty 6-is_prime_number.c
+vi 100-is_palindrome.c
+betty 100-is_palindrome.c
+vi 101-wildcmp.c
+betty 101-wildcmp.c
+ls
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 1-main.c 1-print_rev_recursion.c -o 1-print_rev_recursion
+ls
+git add .
+git commit -m "C Recursion"
+git push
+clear
+exit
+ls
+cd alx-low_level_programming
+cd 0x08-recursion
+ls
+git add .
+git commit -m "C Recursion"
+git push
+clea
+clear
+exit
+cd alx-low_level_programming
+cd 0x08-recursion
+vi 101-wildcmp.c
+vi 100-is_palindrome.c
+clear
+exit
+ls
+cd alx-low_level_programming
+vi README.md
+git add .
+git commit -m "Hello"
+git push
+vi README.md
+exit
+ls
+cd alx-low_level_programming
+vi README.md
+rm -r README.md 
+ls
+vi README.md
+git add .
+git commit -m "Hello"
+git push
+vi README.md
+git add .
+git commit -m "Hello"
+git push
+clear
+exit
+cd alx-low_level_programming
+mkdir 0x09-static_libraries
+cd 0x09-static_libraries
+ls
+echo "readme" > README.md
+ls
+vi README.md
+vi main.h
+vi 0-putchar.c
+betty 0-putchar.c
+ls
+vi 0-isupper.c
+betty 0-isupper.c
+vi 0-memset.c
+betty 0-memset.c
+vi 0-strcat.c
+betty 0-strcat.c
+vi 0-strcat.c
+vi 1-isdigit.c
+betty 1-isdigit.c
+vi 1-memcpy.c
+betty 1-memcpy.c
+vi 1-strncat.c
+betty 1-strncat.c
+vi 2-strchr.c
+betty 2-strchr.c
+vi 2-strlen.c
+betty 2-strlen.c
+vi 2-strncpy.c
+betty 2-strncpy.c
+vi 3-islower.c
+betty 3-islower.c
+vi 3-puts.c
+betty 3-puts.c
+vi 3-strcmp.c
+betty 3-strcmp.c
+vi 3-strspn.c
+betty 3-strspn.c
+vi 4-isalpha.c
+betty 4-isalpha.c
+vi 4-strpbrk.c
+betty 4-strpbrk.c
+vi 5-strstr.c
+betty 5-strstr.c
+vi 6-abs.c
+betty 6-abs.c
+vi 9-strcpy.c
+betty 9-strcpy.c
+vi 100-atoi.c
+betty 100-atoi.c
+ls
+git add .
+git commit -m "C Static libraries"
+git push
+create_static_lib.sh
+clear
+gcc -Wall -pedantic -Werror -Wextra -c *.c
+ar -rc liball.a *.o
+ranlib liball.a
+gcc -c *.c
+ar rcs libmy.a
+ar rcs libmy.a *.o
+ar -t libmy.a
+nm libmy.a
+git add .
+ls
+gcc -c *.c
+git add .
+git commit -m "Updated"
+git push
+gcc -std=gnu89 main.c -L. -lmy -o quote
+git add .
+git commit -m "Updated"
+git push
+nm libmy.a 
+ar -t libmy.a
+ls
+ls *.c
+ls *.a
+ar -t liball.a
+ls
+git add .
+git commit -m "Updated"
+git push
+ar -t libmy.a 
+clear
+cd ..
+cd 0x09-static_libraries
+gcc -Wall -pedantic -Werror -Wextra -c *.c
+ar -rc liball.a *.o
+ranlib liball.a
+git add .
+git commit -m "Updated"
+git push
+cd ..
+vi 0x0A-argc_argv
+mkdir 0x0A-argc_argv
+cd 0x0A-argc_argv
+mkdir 0x0A-argc_argv
+cd 0x0A-argc_argv
+clear
+exit
+cd alx-low_level_programming
+cd 0x0A-argc_argv
+mkdir 0x0A-argc_argv
+ls
+cd 0x0A-argc_argv
+vi 0x0A-argc_argv
+cd 0x0A-argc_argv
+cd ..
+cd alx-low_level_programming
+cd 0x0A-argc_argv
+mkdir 0x0A-argc_argv
+cd 0x0A-argc_argv
+cd 0x0A-argc_argv/
+mkdir 0x0A-argc_argv/
+cd 0x0A-argc_argv/
+cd 0x0A-argc_argv
+cd ..
+cd 0x0A-argc_argv
+mkdir 0x0A-argc_argv
+cd 0x0A-argc_argv
+cd ..
+cd alx-low_level_programming
+cd 0x0A-argc_argv
+/root
+clear
+cd 0x0A-argc_argv/
+mkdir 0x0A-argc_argv
+cd 0x0A-argc_argv
+-bash
+cd 0x0A-argc_argv
+mkdir 0x0A-argc_argv
+cd 0x0A-argc_argv
+cd 0x09-static_libraries
+cd ..
+cd 0x0A-argc_argv
+clear
+exit
+cd alx-low_level_programming
+cd 0x09-static_libraries
+ls
+vi main.h
+gcc -c *.c
+gcc -c 0-isupper.c -o 0-isupper.o
+gcc -c 0-memset.c -o 0-memset.o
+gcc -c 0-strcat.c -o 0-strcat.o
+gcc -c 1-isdigit.c -o 1-isdigit.o
+gcc -c 1-memcpy.c -o 1-memcpy.o
+gcc -c 1-strncat.c -o 1-strncat.o
+gcc -c 100-atoi.c -o 100-atoi.o
+gcc -c 2-strchr.c -o 2-strchr.o
+gcc -c 2-strlen.c -o 2-strlen.o
+gcc -c 2-strncpy.c -o 2-strncpy.o
+gcc -c 3-islower.c -o 3-islower.o
+gcc -c 3-puts.c -o 3-puts.o
+gcc -c 3-strcmp.c -o 3-strcmp.o
+gcc -c 3-strspn.c -o 3-strspn.o
+gcc -c 4-isalpha.c -o 4-isalpha.o
+gcc -c 4-strpbrk.c -o 4-strpbrk.o
+gcc -c 5-strstr.c -o 5-strstr.o
+gcc -c 6-abs.c -o 6-abs.o
+gcc -c 9-strcpy.c -o 9-strcpy.o
+gcc -c _putchar.c -o _putchar.o
+ls
+ar -rcs libmy.a 0-isupper.o 0-memset.o 0-strcat.o 1-isdigit.o 1-memcpy.o 1-strncat.o 100-atoi.o 2-strchr.o 2-strlen.o 2-strncpy.o 3-islower.o 3-puts.o 3-strcmp.o 3-strspn.o 4-isalpha.o 4-strpbrk.o 5-strstr.o 6-abs.o 9-strcpy.o _putchar.o
+ar -t libmy.a
+nm libmy.a
+vi main.c 
+betty main.c
+vi main.c
+betty vi main.c
+vi main.c
+betty main.c
+vi main.c
+betty main.c
+gcc -std=gnu89 main.c -L. -lmy -o quote
+./quote
+git add libmy.a
+git add .
+git commit -m "C Static libraries"
+git push
+git add main.h
+git commit -m "C Static librarie
+s"
+git commit -m "C Static librarie
+s"
+git commit -m "C Static libraries"
+git add README.md
+ls
+git add .
+git commit -m "C Static libraries"
+git push
+clear
+ls
+vi _putchar
+vi _putchar.c
+betty _putchar.c
+ar rc libmy.a
+ls
+cd ..
+ls
+cd 0x02-functions_nested_loops
+ls
+cp 3-islower.c 4-isalpha.c 6-abs.c ../0x09-static_libraries/
+cd ..
+cd 0x04-more_functions_nested_loops
+ls
+cp 0-isupper.c 1-isdigit.c ../0x09-static_libraries/
+cd ..
+ls
+cd 0x05-pointers_arrays_strings
+clear
+ls
+cp 100-atoi.c 2-strlen.c 3-puts.c 9-strcpy.c ../0x09-static_libraries/
+cd ..
+ls
+cd 0x06-pointers_arrays_strings
+ls
+cp 0-strcat.c 1-strncat.c 2-strncpy.c 3-strcmp.c ../0x09-static_libraries/
+cd ..
+cd 0x07-pointers_arrays_strings
+ls
+cp 0-memset.c 1-memcpy.c 2-strchr.c 3-strspn.c 4-strpbrk.c 5-strstr.c ../0x09-static_libraries/
+cd ..
+cd 0x09-static_libraries
+ls
+gcc -c *.c
+ls
+clear
+ls
+gcc -c *.c
+ls
+ar cr libmy.a *.o
+clear
+exit
+mkdir t
+ls
+cd alx-low_level_programming
+ls
+cd 0x05-pointers_arrays_strings
+ls
+cp 9-strcpy.c
+cp _putchar.c ~/t
+clear
+cd ..
+cd 0x09-static_libraries
+vi README.md
+vi main.h
+vi _putchar.c
+vi 0-isupper.o
+ls
+vi 0-isupper.c
+ls
+gcc -c *.c
+ls
+ar rcs libmy.a
+ls
+ar rcs libmy.a *o
+ls
+ar -t libmy.a
+nm libmy.a 
+vi create_static_lib.sh
+ar -t liball.a
+ls
+chmod u+x create_static_lib.sh
+git add .
+git commit -m "Update" 
+git push
+vi 0-isupper.o
+betty 0-isupper.o
+ls
+vi 0-memset.o
+betty 0-memset.o
+ls
+vi 0-strcat.o
+betty 0-strcat.o
+vi 1-isdigit.o
+betty 1-isdigit.o
+vi 1-memcpy.o
+betty 1-memcpy.o
+vi 1-strncat.o
+bety 1-strncat.o
+betty 1-strncat.o
+vi 100-atoi.o
+betty 100-atoi.o
+vi 2-strchr.o
+betty 2-strchr.o
+ls
+vi 2-strlen.o
+betty 2-strlen.o
+vi 2-strncpy.o
+betty 2-strncpy.o
+vi 3-islower.o
+betty 3-islower.o
+vi 3-puts.o
+betty 3-puts.o
+vi 3-strcmp.o
+betty 3-strcmp.o
+vi 3-strspn.o
+betty 3-strspn.o
+vi 4-isalpha.o
+betty 4-isalpha.o
+vi 4-strpbrk.o
+betty 4-strpbrk.o 
+vi 5-strstr.o
+betty 5-strstr.o
+vi 6-abs.o
+betty 6-abs.o
+vi 9-strcpy.o
+betty 9-strcpy.o
+ls
+vi _putchar.o
+betty _putchar.o
+ls
+gcc -c *.c
+ls
+ar rcs libmy.a
+ls
+ar rcs libmy.a *o
+ls
+ar -t libmy.a 
+nm libmy.a
+git add .
+git commit -m "Update"
+git push
+vi 0-memset.o
+ls
+vi 0-isupper.c
+vi 0-putchar.c
+vi 0-putchar.o
+vi 0-memset.o
+ls
+clear
+cd ..
+cd 0x0A-argc_argv
+mkdir 0x0A-argc_argv
+cd 0x0A-argc_argv
+clear
+-Wall -Werror -Wextra -pedantic -std=gnu89
+ls
+cd alx-low_level_programming
+cd 0x0A-argc_argv
+mkdir 0x0A-argc_argv
+cd 0x0A-argc_argv
+ls
+cd alx-low_level_programming
+cd 0x0A-argc_argv
+mkdir 0x0A-argc_argv
+cd 0x0A-argc_argv
+cd 0x09-static_libraries
+ls
+clear
+ls
+vi libmy.a
+cd ~
+ls
+mkdir t
+ls
+cd alx-low_level_programming
+ls
+cd 0x05-pointers_arrays_strings
+ls
+cp _putchar.c 
+cp _putchar.c ~/t
+cp _putchar.c
+ls ~/t
+ls
+cp _putchar.c ~/t
+ls
+cp '_putchar.c'
+cp 'cp _putchar.c' ~/t
+cp '_putchar.c' ~/t
+cp '_putchar.c' 
+cp cp '_putchar.c' ~\t
+ls
+cp 100-atoi.c
+cp 100-atoi.c ~/t
+cp 3-puts.c ~/t
+cp 2-strlen.c ~/t
+cp 9-strcpy.c ~/t
+cp _putchar.c ~/t
+ls ~/t
+cd ..
+clear
+ls
+cd 0x06-pointers_arrays_strings
+ls
+cp 0-strcat.c ~/t
+cp 1-strncat.c ~/t
+cp 3-strcmp.c ~/t
+cp 2-strncpy.c ~/t
+ls ~/t
+cd ..
+cd 0x07-pointers_arrays_strings
+ls
+cp 0-memset.c ~/t
+cp 1-memcpy.c ~/t
+cp 4-strpbrk.c ~/t
+cp 2-strchr.c ~/t
+cp 5-strstr.c ~/t
+cp 3-strspn.c ~/t
+ls ~/t
+ls ~/t | wc -1
+ls ~/t | wc -l
+cd ..
+find . -type f -name "isupper"
+ls
+cd 0x04-more_functions_nested_loops
+ls
+cp 0-isupper.c ~/t
+cp 1-isdigit.c ~/t
+cd ..
+cd 0x03-debugging
+ls
+cd ..
+ls
+cd 0x02-functions_nested_loops
+ls
+cp 6-abs.c ~/t
+cp 3-islower.c ~/t
+cp 4-isalpha.c ~/t
+ls ~/t | wc -l
+ls ~/t
+cd ~/t
+ls
+cp * ~/alx-low_level_programming/0x09-static_libraries/
+cd ~/alx-low_level_programming/
+cd 0x09-static_libraries
+ls
+gcc -c *.c
+la
+ls
+ar rc libmy.a *.o
+ls
+vi main.c
+ar -t libmy.a
+nm libmy.a 
+gcc -std=gnu89 main.c -L. -lmy -o quote
+ls
+./quote 
+git add .
+git commit -m "libmy"
+git push
+ls
+clear
+exit
+ls
+cd alx-low_level_programming
+ls
+cd 0x09-static_libraries
+clear
+ls
+gcc - *.c
+apt install gcc
+clear
+gcc - *.c
+clear
+ls
+gcc - *.c 
+gcc -E
+clear
+gcc - *.c 
+ar rcs libmy.a
+ar rcs libmy.a *.o
+ar -t libmy.a
+nm libmy.a
+clear
+ls
+cd ..
+clear
+ls
+rm -r 0x09-static_libraries
+la
+clear
+ls
+mkdir 0x09-static_libraries
+cd 0x09-static_libraries
+vi README.md
+git add .
+git commit -m "Hello "
+git push
+clear
+vi main.h
+vi 0-putchar.c
+vi 0-isupper.c
+vi 0-memset.c
+vi 0-strcat.c
+vi 1-isdigit.c
+vi 1-memcpy.c
+vi 1-strncat.c
+vi 2-strchr.c
+vi 2-strlen.c
+vi 2-strncpy.c
+vi 3-islower.c
+vi 3-puts.c
+vi 3-strcmp.c
+vi 3-strspn.c
+vi 4-isalpha.c
+vi 4-strpbrk.c
+vi 5-strstr.c
+vi 6-abs.c
+vi 9-strcpy.c
+vi 100-atoi.c
+clear
+ls
+betty 0-isupper.c
+betty 0-memset.c
+betty 0-putchar.c
+betty 0-strcat.c
+betty 1-isdigit.c
+betty 1-memcpy.c
+betty 1-strncat.c
+betty 100-atoi.c
+betty 2-strchr.c
+betty 2-strlen.c
+clear
+ls
+betty 2-strncpy.c
+betty 3-islower.c
+betty 3-puts.c
+betty 3-strcmp.c
+betty 3-strspn.c
+betty 4-isalpha.c
+betty 4-strpbrk.c
+betty 5-strstr.c
+betty 6-abs.c
+betty 9-strcpy.c
+clear
+ls
+gcc - *.c
+ar rcs libmy.a
+ar rcs libmy.a *.o
+ar -t libmy.a
+nm libmy.a  
+clear
+gcc - *.c
+gcc - *.E
+cleat
+exit
+ls
+alx-low_level_programming
+cd alx-low_level_programming
+clear
+ls
+cd 0x09-static_libraries
+clear
+ls
+gcc - *.c
+apt gcc install
+clear
+ar -t libmy.a 
+ls
+nm libmy.a 
+ls
+clear
+sudo apt update
+clear
+sudo apt install build-essential
+clea
+clear
+sudo apt-get install manpages-dev
+gcc --version
+ls
+clear
+ls
+gcc - *.c
+gcc -o output_file *.c
+gcc -E *.c
+clear
+ls
+gcc - *.c 
+ar rcs libmy.a
+ar rcs libmy.a *.o
+ar -t libmy.a
+nm libmy.a
+clear
+gcc -c  *.c
+ar rcs libmy.a
+ar rcs libmy.a *.o
+ar -t libmy.a
+nm libmy.a
+gitadd .
+git add .
+git commit -m "Updated"
+git push
+exit
+cd alx-low_level_programming
+ls
+mkdir 0x0A-argc_argv
+cd 0x0A-argc_argv
+rm -r 0x0A-argc_argv
+clear
+mkdir 0x0A-argc_argv
+cd 0x0A-argc_argv
+clear
+vi README.md
+vi  
+cd alx-low_level_programming
+cd 0x0A-argc_argv
+ls
+vi README.md
+ls
+vi 0-whatsmyname.c
+betty 0-whatsmyname.c
+vi main.h
+betty main.h
+vi _putchar.c
+betty _putchar.c
+vi 1-args.c
+betty 1-args.c
+vi 2-args.c
+betty 2-args.c
+vi 3-mul.c
+betty 3-mul.c
+vi 3-mul.c
+betty 3-mul.c
+vi 4-add.c
+betty 4-add.c
+vi 100-change.c
+betty 100-change.c
+ls
+clear
+git add .
+git commit -m "Updates"
+git push
+clean
+ls
+alx-low_level_programming
+cd alx-low_level_programming
+cd 0x0B-malloc_free
+mkdir 0x0B-malloc_free
+cd 0x0B-malloc_free
+ls
+vi README.md
+ls
+vi main.h
+betty main.h
+vi _putchar.c
+betty _putchar.c
+ls
+vi 0-create_array.c
+betty 0-create_array.c
+vi 1-strdup.c
+betty 1-strdup.c
+vi 2-str_concat.c
+betty 2-str_concat.c
+vi 3-alloc_grid.c
+betty 3-alloc_grid.c
+vi 4-free_grid.c
+betty 4-free_grid.c
+vi 100-argstostr.c
+betty 100-argstostr.c
+vi 101-strtow.c
+betty 101-strtow.c
+ls
+clear
+ls
+vi 0-main.c
+betty 0-main.c
+ls
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 0-main.c 0-create_array.c -o a
+./a
+vi 1-main.c
+betty 1-main.c
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 1-main.c 1-strdup.c -o s
+./s 
+vi 2-main.c
+betty 2-main.c
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 2-main.c 2-str_concat.c -o c
+git add .
+git commit -m "C malloc free"
+git push
+clear
+ls
+vi 0-main.c
+clear
+exit
+ls
+cd zero_day
+ls
+cd alx-zero_day
+cd alx-system_engineering-devops
+mkdir alx-system_engineering-devops
+cd alx-system_engineering-devops
+ls
+cd alx-low_level_programming
+mkdir alx-low_level_programming
+cd alx-low_level_programming
+ls
+git add .
+git commit -m "HIND"
+git push
+vi README.md
+vi HIND
+ls
+vi HIND
+ls
+cat HIND
+git add .
+git commit -m "HELLO"
+git push
+innclude
+vi HIND
+ls
+cd alx-low_level_programming
+ls
+vi alx-low_level_programming
+ls
+cd alx-low_level_programming
+ls
+cd 0x0C-more_malloc_free
+mkdir 0x0C-more_malloc_free
+cd 0x0C-more_malloc_free
+clear
+vi README.md
+ls
+vi main.h
+betty main.h
+vi 0-malloc_checked.c
+vi 1-string_nconcat.c
+betty 1-string_nconcat.c
+vi 1-string_nconcat.c
+betty 1-string_nconcat.c
+vi 1-string_nconcat.c
+betty 1-string_nconcat.c
+ls
+vi 2-calloc.c
+betty 2-calloc.c\
+vi 3-array_range.c
+betty 3-array_range.c
+vi 100-realloc.c
+betty 100-realloc.c
+vi 101-mul.c
+betty 101-mul.c
+vi _putchar.c
+betty _putchar.c
+clear
+ls
+betty 0-malloc_checked.c  100-realloc.c  2-calloc.c       README.md   main.h
+1-string_nconcat.c  101-mul.c      3-array_range.c  _putchar.c0-malloc_checked.c  100-realloc.c  2-calloc.c       README.md   main.h
+1-string_nconcat.c  101-mul.c      3-array_range.c  _putchar.c
+ls
+clear
+vi 0-main.c
+betty 0-main.c
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 0-main.c 0-malloc_checked.c -o a
+./a 
+echo $?
+vi 1-main.c
+betty 1-main.c
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 1-main.c 1-string_nconcat.c -o 1-string_nconcat
+./1-string_nconcat
+vi 2-main.c
+betty 2-main.c
+vi -main.c
+vi 2-main.c
+betty 2-main.c
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 2-main.c 2-calloc.c -o 2-calloc
+./2-calloc
+clear
+vi 3-main.c
+betty 
+betty 3-main.c
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 3-main.c 3-array_range.c -o 3-array_range
+./3-array_range
+vi 100-main.c
+betty 100-main.c
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 100-main.c 100-realloc.c -o 100-realloc
+./100-realloc
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 101-mul.c _putchar.c -o 101-mul
+./101-mul 10 98
+./101-mul
+clear
+ls
+git add .
+git commit -m "C - More malloc, free"
+git push
+clear
+exit
+cd alx-low_level_programming
+cd 0x0E-structures_typedef
+mkdir 0x0E-structures_typedef
+cd 0x0E-structures_typedef
+ls
+vi README.md
+ls
+clear
+vi dog.h
+betty dog.h
+vi dog.h
+betty dog.h
+vi dog.h
+vi 1-init_dog.c
+betty 1-init_dog.c
+vi 2-print_dog.c
+betty 2-print_dog.c
+vi 4-new_dog.c
+betty 4-new_dog.c
+vi 5-free_dog.c
+betty 5-free_dog.c
+clear
+vi 0-main.c
+betty 0-main.c
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 0-main.c -o a
+./a 
+vi 1-main.c
+betty 1-main.c
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 1-main.c 1-init_dog.c -o b
+./b
+vi 2-main.c
+betty 2-main.c
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 2-main.c 2-print_dog.c -o c
+./c
+vi 3-main.c
+betty 3-main.c
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 3-main.c -o d
+./d
+vi 4-main.c
+betty 4-main.c
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 4-main.c 4-new_dog.c -o e
+./e
+vi 5-main.c
+betty 5-main.c
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 5-main.c 5-free_dog.c 4-new_dog.c -o f
+./f
+ls
+clear
+ls
+git add .
+git commit -m "C - Structures, typedef"
+git push
+clear
+betty dog.h
+vi dog.h
+betty dog.h
+vi dog.h
+betty dog.h
+ls
+git add .
+git commit -m "C - Structures, typedef"
+git push
+clear
+cd ..
+mkdir 0x0D-preprocessor
+cd 0x0D-preprocessor
+ls
+vi README.md
+ls
+vi 0-object_like_macro.h
+betty 0-object_like_macro.h
+vi 1-pi.h
+betty 1-pi.h
+vi 2-main.c
+betty 2-main.c
+vi 3-function_like_macro.h
+betty 3-function_like_macro.h
+vi 4-sum.h
+betty 4-sum.h
+vi 1-main.c
+betty 1-main.c
+vi 1-main.c
+betty 1-main.c
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 1-main.c -o b
+./b
+vi 0-main.c
+betty 0-main.c
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 0-main.c -o a
+./a
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 2-main.c -o c
+./c 
+cp 2-main.c 02-main.c
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 02-main.c -o cc
+./cc
+vi 3-main.c
+betty 3-main.c
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 3-main.c -o d
+./d
+vi 4-main.c
+betty 4-main.c
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 4-main.c -o e
+./e
+ls
+git add .
+git commit -m "C - Preprocessor"
+git push
+clear
+exit
+ls
+cd alx-low_level_programming
+cd 0x0F-function_pointers
+mkdir 0x0F-function_pointers
+cd 0x0F-function_pointers
+s
+ls
+clear
+vi README.md
+ls
+git add .
+git commit -m "C - Function pointers"
+git push
+clear
+vi function_pointers.h
+betty function_pointers.h
+vi 0-print_name.c
+betty 0-print_name.c
+vi 1-array_iterator.c
+betty 1-array_iterator.c
+vi 2-int_index.c
+betty 2-int_index.c
+vi 3-main.c
+betty 3-main.c
+vi 3-op_functions.c
+betty 3-op_functions.c
+vi 3-get_op_func.c
+betty 3-get_op_func.c
+vi 3-calc.h
+betty 3-calc.h
+vi 100-main_opcodes.c
+betty 100-main_opcodes.c
+ls
+clear
+vi 0-main.c
+betty 0-main.c
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 0-main.c 0-print_name.c -o a
+clear
+vi 0-main.c
+betty 0-main.c\
+vi 0-main.c
+betty 0-main.c
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 0-main.c 0-print_name.c -o a
+./a
+clear
+vi 1-main.c
+betty 1-main.c
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 1-main.c 1-array_iterator.c -o b
+./b
+vi 2-main.c
+betty 2-main.c
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 2-main.c 2-int_index.c -o c
+./c 
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 3-main.c 3-op_functions.c 3-get_op_func.c -o calc
+./calc 1 + 1
+./calc 97 + 1
+./calc 1024 / 10
+./calc 1024 '*' 98
+./calc 1024 '\*' 98
+./calc 1024 - 98
+./calc 1024 '%' 98
+gcc -std=gnu89 100-main_opcodes.c -o main
+./main 21
+objdump -d -j.text -M intel main
+./main 21 | udcli -64 -x -o 4005f6
+ls
+clear
+ls
+git add .
+git commit -m "C - Function pointers"
+git push
+clear
+exit
+ls
+cd alx-low_level_programming
+mkdir 0x10-variadic_functions
+cd 0x10-variadic_functions
+vi README.md
+ls
+clear
+vi variadic_functions.h
+betty variadic_functions.h
+vi 0-sum_them_all.c
+betty 0-sum_them_all.c
+vi 1-print_numbers.c
+betty 1-print_numbers.c
+vi 2-print_strings.c
+betty 2-print_strings.c
+vi 3-print_all.c
+betty 3-print_all.c
+ls
+vi 0-main.c
+betty 0-main.c
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 0-main.c 0-sum_them_all.c -o a
+./a
+vi 1-main.c
+betty 1-main.c
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 1-main.c 1-print_numbers.c -o b
+./b
+vi 2-main.c
+betty 2-main.c
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 2-main.c 2-print_strings.c -o c
+./c 
+vi 3-main.c
+betty 3-main.c
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 3-main.c 3-print_all.c -o d
+./d
+ls
+git add .
+git commit -m "C - Variadic functions"
+C
+git push
+ls
+clear
+exit
+ls
+cd alx-zero_day
+ls
+cd zero_day
+cd alx-system_engineering-devops
+cd ..
+cd zero_day
+ls
+cd ..
+cd alx-system_engineering-devops
+ls
+cd ..
+ls
+exit
+ls
+cd alx-zero_day
+ls
+cd ..
+cd alx-system_engineering-devops
+ls
+cd 0x02-shell_redirections
+ls
+cd ..
+cd 0x00-shell_basics
+ls
+cd ..
+ls
+exit
+ls
+cd alx-low_level_programming
+ls
+cd 0x04-more_functions_nested_loops
+ls
+vi 5-more_numbers.c
+cat 5-more_numbers.c
+cd ..
+exitt
+exit
+ls
+cd alx-low_level_programming
+mkdir 0x12-singly_linked_lists
+cd 0x12-singly_linked_lists
+vi README.md
+ls
+vi lists.h
+betty lists.h
+vi 0-print_list.c
+betty 0-print_list.c
+vi 1-list_len.c
+betty 1-list_len.c
+vi 2-add_node.c
+betty 2-add_node.c
+vi 3-add_node_end.c
+betty 3-add_node_end.c
+vi 4-free_list.c
+betty 4-free_list.c
+vi 100-first.c
+betty 100-first.c
+vi 101-hello_holberton.asm
+betty 101-hello_holberton.asm
+clear
+vi 0-main.c
+betty 0-main.c
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 0-main.c 0-print_list.c -o a
+./a 
+vi 1-main.c
+betty 1-main.c
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 1-main.c 1-list_len.c -o b
+./b 
+vi 2-main.c
+betty 2-main.c
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 2-main.c 2-add_node.c 0-print_list.c -o c
+vi 3-main.c
+betty 3-main.c
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 3-main.c 3-add_node_end.c 0-print_list.c -o d
+./d
+vi 4-main.c
+betty 4-main.c
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 4-main.c 4-free_list.c 3-add_node_end.c 0-print_list.c -o e
+./e
+vi 100-main.c
+betty 100-main.c
+vi 100-main.c
+betty 100-main.c
+vi 100-main.c
+betty 100-main.c
+vi 100-main.c
+betty 100-main.c
+vi 100-main.c
+betty 100-main.c
+vi 100-main.c
+betty 100-main.c
+vi 100-main.c
+betty 100-main.c
+vi 100-main.c
+betty 100-main.c
+vi 100-main.c
+betty 100-main.c
+vi 100-main.c
+betty 100-main.c
+vi 100-main.c
+betty 100-main.c
+vi 100-main.c
+betty 100-main.c
+vi 100-main.c
+betty 100-main.c
+vi 100-main.c
+betty 100-main.c
+vi 100-main.c
+betty 100-main.c
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 100-main.c 100-first.c -o first
+./first 
+nasm -f elf64 101-hello_holberton.asm && gcc -no-pie -std=gnu89 101-hello_holberton.o -o hello
+./hello
+clear
+ls
+git add .
+git commit -m "C - Singly linked lists"
+git push
+clear
+exit
+ls
+vi alx-low_level_programming
+ls
+cd alx-low_level_programming
+ls
+cd .
+cd ..
+cd alx-system_engineering-devops
+ls
+exit
+ls
+cd alx-zero_day
+ls
+cd ..
+cd zero_day
+ls
+cd alx-pre_course
+cd ..
+ls
+cd alx-pre_course
+mkdir alx-pre_course
+cd alx-pre_course
+ls
+cd ..\
+cd ..
+ls
+exit
+ls
+cd alx-low_level_programming
+ls
+cd 0x06-pointers_arrays_strings
+ls
+vi 3-strcmp.c
+ls
+cd alx-pre_course
+ls
+exit
+ls
+cd alx-low_level_programming
+ls
+mkdir 0x13-more_singly_linked_lists
+cd 0x13-more_singly_linked_lists
+clear
+vi README.md
+ls
+vi lists.h
+betty lists.h
+vi 0-print_listint.c
+betty 0-print_listint.c
+vi 0-print_listint.c
+betty 0-print_listint.c
+vi 1-listint_len.c
+betty 1-listint_len.c
+vi 2-add_nodeint.c
+betty 2-add_nodeint.c
+vi 3-add_nodeint_end.c
+betty 3-add_nodeint_end.c
+vi 4-free_listint.c
+betty 4-free_listint.c
+vi 5-free_listint2.c
+betty 5-free_listint2.c
+vi 5-free_listint2.c
+betty 5-free_listint2.c
+vi 6-pop_listint.c
+betty 6-pop_listint.c
+clear
+vi 7-get_nodeint.c
+betty 7-get_nodeint.c
+vi 8-sum_listint.c
+betty 8-sum_listint.c
+vi 9-insert_nodeint.c
+betty 9-insert_nodeint.c
+vi 10-delete_nodeint.c
+betty 10-delete_nodeint.c
+vi 10-delete_nodeint.c
+betty 10-delete_nodeint.c
+clear
+ls
+git add .
+clear
+ls
+vi 100-reverse_listint.c
+betty 100-reverse_listint.c
+vi 101-print_listint_safe.c
+betty 101-print_listint_safe.c
+vi 101-print_listint_safe.c
+vi 102-free_listint_safe.c
+betty vi 102-free_listint_safe.c
+ls
+clear
+vi vi 102-free_listint_safe.c
+vi 102-free_listint_safe.c
+betty 102-free_listint_safe.c
+vi 103-find_loop.c
+betty 103-find_loop.c
+ls
+clear
+vi 0-main.c 
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 0-main.c 0-print_listint.c -o a
+./a 
+vi 1-main.c
+betty 1-main.c
+betty 0-main.c
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 1-main.c 1-listint_len.c -o b
+./b
+vi 2-main.c 
+betty 2-main.c
+vi 4-main.c 
+betty 4-main.c
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 4-main.c 3-add_nodeint_end.c 0-print_listint.c 4-free_listint.c -o e
+./e 
+vi 5-main.c 
+betty 5-main.c
+vi 6-main.c
+betty 6-main.c
+clear
+vi 7-main.c 
+betty 7-main.c
+vi 8-main.c 
+betty 8-main.c
+vi 8-main.c
+betty 8-main.c
+vi 8-main.c
+vi 9-main.c 
+betty 9-main.c
+vi 10-main.c 
+betty 10-main.c
+vi 100-main.c 
+betty 100-main.c
+vi 101-main.c 
+betty 101-main.c
+vi 102-main.c 
+betty 102-main.c
+vi 103-main.c 
+betty 103-main.c
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 103-main.c 2-add_nodeint.c 101-print_listint_safe.c 102-free_listint_safe.c 103-find_loop.c -o o
+./o 
+git add .
+ls
+git add .
+git commit -m "C - More singly linked lists"
+git push
+clear
+exit
+ls
+cd cd alx-low_level_programming
+cd alx-low_level_programming
+ls
+mkdir
+mkdir 0x14-bit_manipulation
+cd 0x14-bit_manipulation
+clear
+vi README.md
+ls
+vi main.h
+betty main.h
+vi _putchar.c
+betty _putchar.c
+vi 0-binary_to_uint.c
+betty 0-binary_to_uint.c
+vi 1-print_binary.c
+betty 1-print_binary.c
+vi 2-get_bit.c
+betty 2-get_bit.c
+vi 3-set_bit.c
+betty 3-set_bit.c
+vi 4-clear_bit.c
+betty 4-clear_bit.c
+vi 5-flip_bits.c
+betty 5-flip_bits.c
+clear
+vi 100-get_endianness.c
+betty 100-get_endianness.c
+vi 100-get_endianness.c
+betty 100-get_endianness.c
+vi 100-get_endianness.c
+betty 100-get_endianness.c
+ls
+cler
+clear
+vi 0-main.c
+betty 0-main.c
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 0-main.c 0-binary_to_uint.c -o a
+./a 
+vi 1-main.c 
+betty -main.c
+betty 1-main.c
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 1-main.c 1-print_binary.c _putchar.c -o b
+./b
+vi 2-main.c
+betty 2-main.c
+clear
+./c
+vi 3-main.c
+betty 3-main.c
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 3-main.c 3-set_bit.c -o d
+,
+./d
+vi 4-main.c
+betty 4-main.c
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 4-main.c 4-clear_bit.c -o e
+./e
+vi 5-main.c
+betty 5-main.c
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 5-main.c 5-flip_bits.c -o f
+./f
+clear
+ls
+git add .
+git commit -m "0x14-bit_manipulation"
+git push
+clear
+exit
+ls
+cd alx-low_level_programming
+ls
+mkdir 0x15-file_io
+cd 0x15-file_io
+clear
+vi README.md
+vi main.h
+betty main.h
+vi 0-read_textfile.c
+betty 0-read_textfile.c
+vi 1-create_file.c
+betty 1-create_file.c
+vi 2-append_text_to_file.c
+betty 2-append_text_to_file.c
+vi 3-cp.c
+betty 3-cp.c
+vi 100-elf_header.c
+betty 100-elf_header.c
+ls
+clear
+cat Requiescat 
+vi Requiescat 
+betty Requiescat
+cat Requiescat
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 0-main.c 0-read_textfile.c -o a
+./a Requiescat
+git add .
+git commit -m "C - File I/O"
+git push
+clear
+vi  1-main.c
+betty 1-main.c
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 1-main.c 1-create_file.c -o b
+vi main.h
+betty main.h
+./b hello world
+ls
+clear
+vi Requiescat 
+cat Requiescat
+vi 0-main.c
+betty 0-main.c
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 0-main.c 0-read_textfile.c -o a
+./a Requiescat 
+clear
+vi 1-main.c
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 1-main.c 1-create_file.c -o b
+./b hello world
+ls -l hello
+cat hello 
+vi 2-main.c
+betty 2-main.c
+echo -n Hello > hello
+ls -l hello
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 2-main.c 2-append_text_to_file.c -o c
+./c hello " World!
+
+
+!":wkxep k'#rc $i\
+
+
+}{
+[
+]
+]
+[
+=
+"
+ 
+l
+p}
+|
+}{|
+-
+ls
+cd alx-low_level_programming
+ls
+cd 0x15-file_io
+ls
+clear
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 3-cp.c -o cp
+cat incitatous 
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 100-elf_header.c -o elf_header
+./elf_header ubuntu64 
+git add .
+git commit -m "C - File I/O"
+git push
+ls
+cd alx-low_level_programming
+ls
+cd 0x15-file_io
+ls
+vi 100-elf_header.c
+betty 100-elf_header.c
+git add .
+git commit -m "Updated"
+git push
+vi 100-elf_header.c
+betty 100-elf_header.c
+git add .
+git commit -m "Updated"
+git push
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 100-elf_header.c -o elf_header
+./elf_header ubuntu64 
+ls
+cd alx-low_level_programming
+ls
+cd alx-low_level_programming
+ls
+cd ..
+ls
+cd simple_shell
+mkdir simple_shell
+cd simple_shell
+ls
+clear
+git clone https://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@github.com/Yassine745/simple_shell.git 
+ls
+vi README.md
+ls
+git add .
+cd ..
+git clone https://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@github.com/Yassine745/simple_shell.git
+cd simple_shell
+ls
+git add .
+git commit -m "HELLO"
+cd ..
+rm -rf simple_shell
+ls
+cd simple_shell
+mkdir simple_shell
+cd simple_shell
+ls
+vi README.md
+ls
+git add .
+git commit -m "simple_shell"
+git push
+git pull
+ls
+clear
+exit
+ls
+cd simple_shell
+ls
+vi _atoi.c
+betty _atoi.c
+vi _atoi.c
+gcc _atoi.c
+vi builtin.c
+betty builtin.c
+gcc builtin.c
+vi builtin1.c
+betty builtin1.c
+vi environ.c
+betty environ.c
+vi errors.c code
+betty vi errors.c
+vi errors.c 
+vi errors1.c 
+betty errors1.c
+ls
+vi exits.c 
+betty exits.c
+vi getLine.c 
+betty getLine.c
+vi getenv.c 
+betty getenv.c
+vi getinfo.c 
+betty getinfo.c
+vi history.c 
+betty history.c
+vi lists.c 
+betty lists.c
+vi lists1.c 
+betty lists1.c
+vi main.c 
+betty main.c
+vi memory.c 
+betty memory.c
+vi parser.c
+betty parser.c
+vi realloc.c
+betty realloc.c
+ls
+git add .
+exit
+ls
+cd simple_shell
+ls
+git aed .
+git add .
+git commit -m
+clear
+ls
+cd simple_shell
+ls
+vi shell.h
+betty shell.h
+vi shell_loop.c
+betty shell_loop.c
+vi string.c
+betty string.c
+vi string1.c
+betty string1.c
+vi tokenizer.c
+betty tokenizer.c
+vi vars.c
+betty vars.c
+ls
+git add .
+clear
+gcc _atoi.c
+gcc builtin.c
+gcc builtin1.c
+gcc environ.c
+gcc errors.c 
+gcc errors1.c 
+gcc exits.c 
+gcc getLine.c 
+gcc getenv.c 
+gcc getinfo.c 
+gcc history.c 
+gcc lists.c 
+gcc lists1.c 
+gcc main.c 
+gcc memory.c 
+gcc parser.c
+gcc realloc.c
+gcc shell.h
+gcc shell_loop.c
+gcc string.c
+gcc string1.c
+gcc tokenizer.c
+gcc vars.c
+ls
+clear
+ls
+git add .
+git commit -m "simple_shell"
+git push
+clear
+exit
+ls
+cd simple_shell
+ls
+git add .
+git commit -m "simple_shell"
+clear
+exit
