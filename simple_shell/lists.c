@@ -1,9 +1,8 @@
 #include "shell.h"
 
 /**
- * Code by – YOUSSEF NABET , TARID YACINE
- * add_node - adds a node to the start of the list
- * @head: address of pointer to head node
+ * add_node - adds the node to the start of the list
+ * @head: address the pointer to head node
  * @str: str field of node
  * @num: node index used by history
  *
@@ -35,8 +34,7 @@ list_t *add_node(list_t **head, const char *str, int num)
 }
 
 /**
- * Code by – YOUSSEF NABET , TARID YACINE
- * add_node_end - adds a node to the end of the list
+ * add_node_end - adds mode to the end of the list
  * @head: address of pointer to head node
  * @str: str field of node
  * @num: node index used by history
@@ -77,8 +75,7 @@ list_t *add_node_end(list_t **head, const char *str, int num)
 }
 
 /**
- * Code by – YOUSSEF NABET , TARID YACINE
- * print_list_str - prints only the str element of a list_t linked list
+ * print_list_str - prints only at the str of element of a list_t linked list
  * @h: pointer to first node
  *
  * Return: size of list
@@ -98,9 +95,8 @@ size_t print_list_str(const list_t *h)
 }
 
 /**
- * Code by – YOUSSEF NABET , TARID YACINE
- * delete_node_at_index - deletes node at given index
- * @head: address of pointer to first node
+ * delete_node_at_index - deletes the node at given index
+ * @head: address of pointer to a first node
  * @index: index of node to delete
  *
  * Return: 1 on success, 0 on failure
@@ -139,9 +135,8 @@ int delete_node_at_index(list_t **head, unsigned int index)
 }
 
 /**
- * Code by – YOUSSEF NABET , TARID YACINE
- * free_list - frees all nodes of a list
- * @head_ptr: address of pointer to head node
+ * free_list - frees all nodes of the list
+ * @head_ptr: address of pointer to the head node
  *
  * Return: void
  */

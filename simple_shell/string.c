@@ -1,8 +1,7 @@
 #include "shell.h"
 
 /**
- * Code by – YOUSSEF NABET , TARID YACINE
- * _strlen - returns the length of a string
+ * _strlen - returns length of a string
  * @s: the string whose length to check
  *
  * Return: integer length of string
@@ -20,8 +19,7 @@ int _strlen(char *s)
 }
 
 /**
- * Code by – YOUSSEF NABET , TARID YACINE
- * _strcmp - performs lexicogarphic comparison of two strangs.
+ * _strcmp - performs lexicogarphic comparison two strangs.
  * @s1: the first strang
  * @s2: the second strang
  *
@@ -43,8 +41,7 @@ int _strcmp(char *s1, char *s2)
 }
 
 /**
- * Code by – YOUSSEF NABET , TARID YACINE
- * starts_with - checks if needle starts with haystack
+ * starts_with - checks needle starts with haystack
  * @haystack: string to search
  * @needle: the substring to find
  *
@@ -59,9 +56,8 @@ char *starts_with(const char *haystack, const char *needle)
 }
 
 /**
- * Code by – YOUSSEF NABET , TARID YACINE
- * _strcat - concatenates two strings
- * @dest: the destination buffer
+ * _strcat - concatenates  strings
+ * @dest:destination buffer
  * @src: the source buffer
  *
  * Return: pointer to destination buffer

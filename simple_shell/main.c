@@ -1,8 +1,7 @@
 #include "shell.h"
 
 /**
- * Code by – YOUSSEF NABET , TARID YACINE
- * main - entry point
+ * main - entry an point
  * @ac: arg count
  * @av: arg vector
  *

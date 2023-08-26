@@ -1,8 +1,7 @@
 #include "shell.h"
 
 /**
- * Code by – YOUSSEF NABET , TARID YACINE
- * _erratoi - converts a string to an integer
+ * _erratoi - converts the string to an integer
  * @s: the string to be converted
  * Return: 0 if no numbers in string, converted number otherwise
  *       -1 on error
@@ -30,8 +29,7 @@ int _erratoi(char *s)
 }
 
 /**
- * Code by – YOUSSEF NABET , TARID YACINE
- * print_error - prints an error message
+ * print_error - prints the error message
  * @info: the parameter & return info struct
  * @estr: string containing specified error type
  * Return: 0 if no numbers in string, converted number otherwise
@@ -49,8 +47,7 @@ void print_error(info_t *info, char *estr)
 }
 
 /**
- * Code by – YOUSSEF NABET , TARID YACINE
- * print_d - function prints a decimal (integer) number (base 10)
+ * print_d - function prints the decimal (integer) number (base 10)
  * @input: the input
  * @fd: the filedescriptor to write to
  *
@@ -89,11 +86,10 @@ int print_d(int input, int fd)
 }
 
 /**
- * Code by – YOUSSEF NABET , TARID YACINE
- * convert_number - converter function, a clone of itoa
+ * convert_number - converter the function, the clone of itoa
  * @num: number
  * @base: base
- * @flags: argument flags
+ * @flags: argument the flags
  *
  * Return: string
  */
@@ -126,9 +122,8 @@ char *convert_number(long int num, int base, int flags)
 }
 
 /**
- * Code by – YOUSSEF NABET , TARID YACINE
- * remove_comments - function replaces first instance of '#' with '\0'
- * @buf: address of the string to modify
+ * remove_comments - function the replaces first instance of '#' with '\0'
+ * @buf: address of the string to a modify
  *
  * Return: Always 0;
  */

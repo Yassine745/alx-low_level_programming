@@ -1,11 +1,10 @@
 #include "shell.h"
 
 /**
- * Code by – YOUSSEF NABET , TARID YACINE
- * is_chain - test if current char in buffer is a chain delimeter
+ * is_chain - test current char in buffer 
  * @info: the parameter struct
  * @buf: the char buffer
- * @p: address of current position in buf
+ * @p: address of position in buf
  *
  * Return: 1 if chain delimeter, 0 otherwise
  */
@@ -71,8 +70,7 @@ void check_chain(info_t *info, char *buf, size_t *p, size_t i, size_t len)
 }
 
 /**
- * Code by – YOUSSEF NABET , TARID YACINE
- * replace_alias - replaces an aliases in the tokenized string
+  * replace_alias - replaces an aliases in the tokenized string
  * @info: the parameter struct
  *
  * Return: 1 if replaced, 0 otherwise
@@ -101,7 +99,6 @@ int replace_alias(info_t *info)
 }
 
 /**
- * Code by – YOUSSEF NABET , TARID YACINE
  * replace_vars - replaces vars in the tokenized string
  * @info: the parameter struct
  *
@@ -143,8 +140,7 @@ int replace_vars(info_t *info)
 }
 
 /**
- * Code by – YOUSSEF NABET , TARID YACINE
- * replace_string - replaces string
+ * replace_string g
  * @old: address of old string
  * @new: new string
  *

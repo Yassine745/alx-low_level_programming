@@ -1,9 +1,8 @@
 #include "shell.h"
 
 /**
- * Code by – YOUSSEF NABET , TARID YACINE
- * clear_info - initializes info_t struct
- * @info: struct address
+ * clear_info - initializes the info_t struct
+ * @info: struct address the
  */
 void clear_info(info_t *info)
 {
@@ -14,8 +13,7 @@ void clear_info(info_t *info)
 }
 
 /**
- * Code by – YOUSSEF NABET , TARID YACINE
- * set_info - initializes info_t struct
+ * set_info - initializes the info_t struct
  * @info: struct address
  * @av: argument vector
  */
@@ -46,9 +44,8 @@ void set_info(info_t *info, char **av)
 }
 
 /**
- * Code by – YOUSSEF NABET , TARID YACINE
- * free_info - frees info_t struct fields
- * @info: struct address
+ * free_info - frees the info_t struct fields
+ * @info: struct of an address
  * @all: true if freeing all fields
  */
 void free_info(info_t *info, int all)

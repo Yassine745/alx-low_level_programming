@@ -1,9 +1,8 @@
 #include "shell.h"
 
 /**
- * Code by – YOUSSEF NABET , TARID YACINE
  * hsh - main shell loop
- * @info: the parameter & return info struct
+ * @info: the parameter & return struct
  * @av: the argument vector from main()
  *
  * Return: 0 on success, 1 on error, or error code
@@ -45,7 +44,6 @@ int hsh(info_t *info, char **av)
 }
 
 /**
- * Code by – YOUSSEF NABET , TARID YACINE
  * find_builtin - finds a builtin command
  * @info: the parameter & return info struct
  *
@@ -80,8 +78,7 @@ int find_builtin(info_t *info)
 }
 
 /**
- * Code by – YOUSSEF NABET , TARID YACINE
- * find_cmd - finds a command in PATH
+ * find_cmd - finds command in PATH
  * @info: the parameter & return info struct
  *
  * Return: void
@@ -123,9 +120,8 @@ void find_cmd(info_t *info)
 }
 
 /**
- * Code by – YOUSSEF NABET , TARID YACINE
- * fork_cmd - forks a an exec thread to run cmd
- * @info: the parameter & return info struct
+ *  fork_cmd - forks an exec thread to run cmd
+ * @info: parameter & return info struct
  *
  * Return: void
  */
