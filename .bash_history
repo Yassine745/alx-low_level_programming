@@ -1,655 +1,3 @@
-git remote -v
-git push
-git fetch origin main:tmp
-git rebase tmp 
-git push
-clear
-cd 0x07-pointers_arrays_strings
-vi 0-memset.c
-vi 1-memcpy.c
-betty 1-memcpy.c
-vi 2-strchr.c
-betty 2-strchr.c
-vi 3-strspn.c
-betty 3-strspn.c
-vi 4-strpbrk.c
-betty 4-strpbrk.c
-vi 5-strstr.c
-betty 5-strstr.c
-vi 7-print_chessboard.c
-betty #include "main.h"
-/**
-* print_chessboard - Entry point
-* @a: array
-* Return: Always 0 (Success)
-*/
-void print_chessboard(char (*a)[8])
-{ int i; int j; for (i = 0; i < 8; i++)
-{ for (j = 0; j < 8; j++)
-_putchar(a[i][j]);
-_putchar('\n');
-}
-betty 7-print_chessboard.c
-vi 8-print_diagsums.c
-betty 8-print_diagsums.c
-vi 100-set_string.c
-betty 100-set_string.c
-vi 101-crackme_password
-betty 101-crackme_password
-vi 0-main.c
-betty 0-main.c
-vi 1-main.c
-betty 1-main.c
-vi 2-mainc
-vi 2-main.c
-betty 2-main.c
-vi 3-main.c
-betty 3-main.c
-vi 4-main.c
-betty 4-main.c
-vi 5-main.c
-betty 5-main.c
-vi 7-main.c
-betty 7-main.c
-vi 8-main.c
-betty 8-main.c
-vi 100-main.c
-betty 100-main.c
-ls
-git add .
-git commit -m "Even more pointers, arrays and strings"
-git push
-ls
-git add .
-git commit -m "Even more pointers, arrays and strings"
-git push
-clear
-git pull --rebase origin master
-git log
-git fetch origin main:tmp
-cd alx-low_level_programming
-cd git fetch origin main:tmp
-git fetch origin main:tmp
-git rebase tmp
-git push origin HEAD:main
-git pull
-git push origin main
-git push origin HEAD:main
-git add .
-git commit -m "HELLO"
-git push
-git push origin HEAD:master
-clear
-cd 0x07-pointers_arrays_strings
-ls
-git add .
-git commit -m "Even more pointers arrays and strings"
-git push
-git add .
-git commit -m "Even more pointers arrays and strings"
-git push origin HEAD:master
-vi 0-memset.c
-git add .
-git commit -m "Even more pointers arrays and strings"
-git push origin HEAD:master
-git push
-clear
-git add .
-git commit -m "Even more pointers arrays and strings"
-git push
-git push origin HEAD:master
-cd ..
-clear
-git init
-git status
-git add .
-git commit -m "first commit"
-git branch -m main
-git remote add origin https://github.com/Yassine745/alx-low_level_programming.git
-git push -u origin main
-git clone https://github.com/Yassine745/alx-low_level_programming.git
-ls
-git add .
-git commit -m "first commit"
-git push
-git push --set-upstream origin main
-clear
-ls
-cd alx-low_level_programming
-ls
-cd 0x07-pointers_arrays_strings
-git fetch origin
-git merge origin/master
-git push origin master
-clear
-git add .
-git commit -m "HELLO"
-git push
-git fetch main
-git branch -m main master
-git fetch origin
-git branch -u origin/master master
-git remote set-head origin -a
-git fetch origin
-git merge origin/master
-git push origin master
-git branch
-git fetch origin
-git pull
-git push
-git clone https://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@github.com/Yassine745/alx-low_level_programming.git 
-git pull
-git push 
-clear
-ls
-git add .
-git commit -m "Hello"
-GIT PUSH
-git push
-git push --set-upstream origin main
-cd alx-low_level_programming
-cd 0x07-pointers_arrays_strings
-ls
-git add .
-git commit -m "HELLO"
-git push
-git push 
-git push
-git push 
-clear
-ls
-git add .
-git commit -m "HELLO"
-git commit -m "Even more pointers arrays and strings"
-clear
-cd ..
-cd alx-low_level_programming
-cd 0x07-pointers_arrays_strings
-git clone https://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@github.com/Yassine745/alx-low_level_programming.git 
-cd ..
-git clone https://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@github.com/Yassine745/alx-low_level_programming.git 
-cd 0x07-pointers_arrays_strings
-0x07-pointers_arrays_strings
-git clone https://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@github.com/Yassine745/alx-low_level_programming.git 
-ls
-git add .
-git commit -m "Even more pointers arrays and strings"
-git push
-git clone https://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@github.com/Yassine745/alx-low_level_programming.git 
-git add .
-git commit -m "HELLO"
-git commit -m "HHDS"
-git commit -m "HELLO"
-clear
-ls
-git pull
-git merge remote/master
-git add README.md
-clear
-git fetch origin
-git merge origin/master
-git fetch origin
-git push origin master
-git clone https://github.com/Yassine745/alx-low_level_programming.git
-gitpull
-git pull
-reset --hard commit-before-the-merge
-clear
-reset --hard 
-git reset --hard commit-before-the-merge
-git reset --merge HEAD~1
-clear
-$ git reset --hard <commit-before-merge>
-git reset --hard <commit-before-merge>
-git reset --hard HEAD~1
-git branch
-git status
-git pull
-git push
-clear
-git checkout master
-git fetch origin
-git merge origin/master
-git status
-git add <file>
-git add .
-git commit -m "Merge changes from origin/master and track untracked files"
-git add 0x06-pointers_arrays_strings/102-magic.c
-git commit -m "Merge changes from origin/master and resolve conflicts"
-clear
-ls
-rm -r alx-low_level_programming
-la
-clear
-la
-vi README.md
-git add .
-git commit -m "Hello"
-clear
-git status
-git add 0x06-pointers_arrays_strings/102-magic.c
-git commit -m "Resolve conflicts"
-git push origin master
-clear
-git clone https://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@github.com/Yassine745/alx-low_level_programming.git 
-ls
-git add .
-git commit -m "Hello"
-git push
-git checkout master
-git log
-git branch branch_backup <commit>
-git reset --hard <commit>
-cd ..
-clear
-git reset --hard <commit>
-ls
-cd 0x06-pointers_arrays_strings
-clear
-ls
-git checkout master
-git status
-git add 0x06-pointers_arrays_strings/102-magic.c
-git pull
-clear
-git checkout master
-git fetch origin
-git merge origin/master
-git add 102-magic.c
-git commit
-git push origin master
-cd ..
-git reset
-clear
-cd /root
-clear
-git clone https://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@github.com/Yassine745/alx-low_level_programming.git
-ls
-cd alx-low_level_programming
-ls
-cd 0x07-pointers_arrays_strings
-ls
-vi 0-main.c
-ls
-betty 0-memset.c
-la
-ls
-clear
-git add .
-git commit -m "Hello"
-git push
-ls
-vi 1-memcpy.c
-betty 1-memcpy.c
-vi 2-strchr.c
-betty 2-strchr.c
-vi 3-strspn.c
-betty 3-strspn.c
-vi 4-strpbrk.c
-betty 4-strpbrk.c
-vi 5-strstr.c
-betty 5-strstr.c
-vi 7-print_chessboard.c
-betty 7-print_chessboard.c
-vi 8-print_diagsums.c
-betty 8-print_diagsums.c
-vi 100-set_string.c
-betty 100-set_string.c
-vi 101-crackme_password
-vi 1-main.c
-betty 1-main.c
-vi 2-main.c
-betty 2-main.c
-vi 3-main.c
-betty 3-main.c
-vi 4-main.c
-betty 4-main.c
-vi 5-main.c
-betty 5-main.c
-vi 7-main.c
-betty 7-main.c
-vi 8-main.c
-betty 8-main.c
-vi 100-main.c
-betty 100-main.c
-ls
-git add .
-git commit -m "Even more pointers arrays and strings"
-git push
-clear
-cat > 101-crackme_password
-chmod u+x 101-crackme_password
-git add 101-crackme_password
-git commit -m "101-crackme_password"
-git push
-ls
-clear
-exit
-cd alx-low_level_programming
-cd 0x07-pointers_arrays_strings
-clear
-sudo apt install libssl-dev
-sudo nano /etc/apt/sources.list
-sudo apt update
-sudo apt install libssl1.0.0
-exit
-cd alx-low_level_programming
-mkdir 0x08-recursion
-cd 0x08-recursion
-echo "readme" > README.md
-vi README.md
-ls
-vi 0-puts_recursion.c
-vi main.h
-vi _putchar.c
-betty _putchar.c
-vi 0-puts_recursion.c
-betty 0-puts_recursion.c
-vi 1-print_rev_recursion.c
-betty 1-print_rev_recursion.c
-vi 2-strlen_recursion.c
-betty 2-strlen_recursion.c
-vi 3-factorial.c
-betty 3-factorial.c
-vi 4-pow_recursion.c
-betty 4-pow_recursion.c
-vi 5-sqrt_recursion.c
-betty 5-sqrt_recursion.c
-vi 6-is_prime_number.c
-betty 6-is_prime_number.c
-vi 100-is_palindrome.c
-betty 100-is_palindrome.c
-vi 101-wildcmp.c
-betty 101-wildcmp.c
-ls
-gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
-gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 1-main.c 1-print_rev_recursion.c -o 1-print_rev_recursion
-ls
-git add .
-git commit -m "C Recursion"
-git push
-clear
-exit
-ls
-cd alx-low_level_programming
-cd 0x08-recursion
-ls
-git add .
-git commit -m "C Recursion"
-git push
-clea
-clear
-exit
-cd alx-low_level_programming
-cd 0x08-recursion
-vi 101-wildcmp.c
-vi 100-is_palindrome.c
-clear
-exit
-ls
-cd alx-low_level_programming
-vi README.md
-git add .
-git commit -m "Hello"
-git push
-vi README.md
-exit
-ls
-cd alx-low_level_programming
-vi README.md
-rm -r README.md 
-ls
-vi README.md
-git add .
-git commit -m "Hello"
-git push
-vi README.md
-git add .
-git commit -m "Hello"
-git push
-clear
-exit
-cd alx-low_level_programming
-mkdir 0x09-static_libraries
-cd 0x09-static_libraries
-ls
-echo "readme" > README.md
-ls
-vi README.md
-vi main.h
-vi 0-putchar.c
-betty 0-putchar.c
-ls
-vi 0-isupper.c
-betty 0-isupper.c
-vi 0-memset.c
-betty 0-memset.c
-vi 0-strcat.c
-betty 0-strcat.c
-vi 0-strcat.c
-vi 1-isdigit.c
-betty 1-isdigit.c
-vi 1-memcpy.c
-betty 1-memcpy.c
-vi 1-strncat.c
-betty 1-strncat.c
-vi 2-strchr.c
-betty 2-strchr.c
-vi 2-strlen.c
-betty 2-strlen.c
-vi 2-strncpy.c
-betty 2-strncpy.c
-vi 3-islower.c
-betty 3-islower.c
-vi 3-puts.c
-betty 3-puts.c
-vi 3-strcmp.c
-betty 3-strcmp.c
-vi 3-strspn.c
-betty 3-strspn.c
-vi 4-isalpha.c
-betty 4-isalpha.c
-vi 4-strpbrk.c
-betty 4-strpbrk.c
-vi 5-strstr.c
-betty 5-strstr.c
-vi 6-abs.c
-betty 6-abs.c
-vi 9-strcpy.c
-betty 9-strcpy.c
-vi 100-atoi.c
-betty 100-atoi.c
-ls
-git add .
-git commit -m "C Static libraries"
-git push
-create_static_lib.sh
-clear
-gcc -Wall -pedantic -Werror -Wextra -c *.c
-ar -rc liball.a *.o
-ranlib liball.a
-gcc -c *.c
-ar rcs libmy.a
-ar rcs libmy.a *.o
-ar -t libmy.a
-nm libmy.a
-git add .
-ls
-gcc -c *.c
-git add .
-git commit -m "Updated"
-git push
-gcc -std=gnu89 main.c -L. -lmy -o quote
-git add .
-git commit -m "Updated"
-git push
-nm libmy.a 
-ar -t libmy.a
-ls
-ls *.c
-ls *.a
-ar -t liball.a
-ls
-git add .
-git commit -m "Updated"
-git push
-ar -t libmy.a 
-clear
-cd ..
-cd 0x09-static_libraries
-gcc -Wall -pedantic -Werror -Wextra -c *.c
-ar -rc liball.a *.o
-ranlib liball.a
-git add .
-git commit -m "Updated"
-git push
-cd ..
-vi 0x0A-argc_argv
-mkdir 0x0A-argc_argv
-cd 0x0A-argc_argv
-mkdir 0x0A-argc_argv
-cd 0x0A-argc_argv
-clear
-exit
-cd alx-low_level_programming
-cd 0x0A-argc_argv
-mkdir 0x0A-argc_argv
-ls
-cd 0x0A-argc_argv
-vi 0x0A-argc_argv
-cd 0x0A-argc_argv
-cd ..
-cd alx-low_level_programming
-cd 0x0A-argc_argv
-mkdir 0x0A-argc_argv
-cd 0x0A-argc_argv
-cd 0x0A-argc_argv/
-mkdir 0x0A-argc_argv/
-cd 0x0A-argc_argv/
-cd 0x0A-argc_argv
-cd ..
-cd 0x0A-argc_argv
-mkdir 0x0A-argc_argv
-cd 0x0A-argc_argv
-cd ..
-cd alx-low_level_programming
-cd 0x0A-argc_argv
-/root
-clear
-cd 0x0A-argc_argv/
-mkdir 0x0A-argc_argv
-cd 0x0A-argc_argv
--bash
-cd 0x0A-argc_argv
-mkdir 0x0A-argc_argv
-cd 0x0A-argc_argv
-cd 0x09-static_libraries
-cd ..
-cd 0x0A-argc_argv
-clear
-exit
-cd alx-low_level_programming
-cd 0x09-static_libraries
-ls
-vi main.h
-gcc -c *.c
-gcc -c 0-isupper.c -o 0-isupper.o
-gcc -c 0-memset.c -o 0-memset.o
-gcc -c 0-strcat.c -o 0-strcat.o
-gcc -c 1-isdigit.c -o 1-isdigit.o
-gcc -c 1-memcpy.c -o 1-memcpy.o
-gcc -c 1-strncat.c -o 1-strncat.o
-gcc -c 100-atoi.c -o 100-atoi.o
-gcc -c 2-strchr.c -o 2-strchr.o
-gcc -c 2-strlen.c -o 2-strlen.o
-gcc -c 2-strncpy.c -o 2-strncpy.o
-gcc -c 3-islower.c -o 3-islower.o
-gcc -c 3-puts.c -o 3-puts.o
-gcc -c 3-strcmp.c -o 3-strcmp.o
-gcc -c 3-strspn.c -o 3-strspn.o
-gcc -c 4-isalpha.c -o 4-isalpha.o
-gcc -c 4-strpbrk.c -o 4-strpbrk.o
-gcc -c 5-strstr.c -o 5-strstr.o
-gcc -c 6-abs.c -o 6-abs.o
-gcc -c 9-strcpy.c -o 9-strcpy.o
-gcc -c _putchar.c -o _putchar.o
-ls
-ar -rcs libmy.a 0-isupper.o 0-memset.o 0-strcat.o 1-isdigit.o 1-memcpy.o 1-strncat.o 100-atoi.o 2-strchr.o 2-strlen.o 2-strncpy.o 3-islower.o 3-puts.o 3-strcmp.o 3-strspn.o 4-isalpha.o 4-strpbrk.o 5-strstr.o 6-abs.o 9-strcpy.o _putchar.o
-ar -t libmy.a
-nm libmy.a
-vi main.c 
-betty main.c
-vi main.c
-betty vi main.c
-vi main.c
-betty main.c
-vi main.c
-betty main.c
-gcc -std=gnu89 main.c -L. -lmy -o quote
-./quote
-git add libmy.a
-git add .
-git commit -m "C Static libraries"
-git push
-git add main.h
-git commit -m "C Static librarie
-s"
-git commit -m "C Static librarie
-s"
-git commit -m "C Static libraries"
-git add README.md
-ls
-git add .
-git commit -m "C Static libraries"
-git push
-clear
-ls
-vi _putchar
-vi _putchar.c
-betty _putchar.c
-ar rc libmy.a
-ls
-cd ..
-ls
-cd 0x02-functions_nested_loops
-ls
-cp 3-islower.c 4-isalpha.c 6-abs.c ../0x09-static_libraries/
-cd ..
-cd 0x04-more_functions_nested_loops
-ls
-cp 0-isupper.c 1-isdigit.c ../0x09-static_libraries/
-cd ..
-ls
-cd 0x05-pointers_arrays_strings
-clear
-ls
-cp 100-atoi.c 2-strlen.c 3-puts.c 9-strcpy.c ../0x09-static_libraries/
-cd ..
-ls
-cd 0x06-pointers_arrays_strings
-ls
-cp 0-strcat.c 1-strncat.c 2-strncpy.c 3-strcmp.c ../0x09-static_libraries/
-cd ..
-cd 0x07-pointers_arrays_strings
-ls
-cp 0-memset.c 1-memcpy.c 2-strchr.c 3-strspn.c 4-strpbrk.c 5-strstr.c ../0x09-static_libraries/
-cd ..
-cd 0x09-static_libraries
-ls
-gcc -c *.c
-ls
-clear
-ls
-gcc -c *.c
-ls
-ar cr libmy.a *.o
-clear
-exit
-mkdir t
-ls
-cd alx-low_level_programming
-ls
-cd 0x05-pointers_arrays_strings
 ls
 cp 9-strcpy.c
 cp _putchar.c ~/t
@@ -1998,3 +1346,655 @@ git add .
 git commit -m "simple_shell"
 clear
 exit
+ls
+rm -rf simple_shell
+ls
+mkdir simple_shell
+cd simple_shell
+ls
+git clone https://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@github.com/Yassine745/simple_shell.git
+ls
+cd ..
+https://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@github.com/Yassine745/simple_shell.git
+git clone https://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@github.com/Yassine745/simple_shell.git
+ls
+cd simple_shell
+vi README.md
+ls
+git add .
+ls
+git add .
+git commit -m "HELLO"
+clear
+git add .
+rm -r simple_shell
+ls
+cd ..
+ls
+cd simple_shell
+ls
+git add .
+clear
+vi _atoi.c
+betty _atoi.c
+vi builtin.c[[[[[[[p[
+vi builtin.c
+betty builtin.c
+vi builtin1.c
+betty builtin1.c
+vi environ.c
+betty environ.c
+vi errors.c 
+betty errors.c
+vi errors1.c 
+betty errors1.c
+vi exits.c 
+betty exits.c
+vi getLine.c 
+betty getLine.c
+vi getenv.c 
+betty getenv.c
+vi getinfo.c 
+betty getinfo.c
+vi history.c \
+vi history.c 
+betty history.c
+vi lists.c 
+betty lists.c
+vi lists1.c 
+betty lists1.c
+vi main.c 
+betty main.c
+vi memory.c 
+betty memory.c
+vi parser.c
+betty parser.c
+vi realloc.c
+betty realloc.c
+vi shell.h
+betty shell.h
+vi shell_loop.c
+betty shell_loop.c
+vi string.c
+betty string.c
+vi string1.c
+betty string1.c
+vi tokenizer.c
+betty tokenizer.c
+vi vars.c
+betty vars.c
+ls
+gcc _atoi.c
+gcc builtin.c
+gcc builtin1.c
+ls
+gcc environ.c
+gcc errors.c
+gcc errors1.c
+ls
+gcc exits.c
+gcc getLine.c
+ls
+gcc getenv.c
+gcc getinfo.c
+ls
+gcc history.c
+gcc lists.c
+gcc Clists.c
+gcc main.c
+ls
+gcc memory.c
+gcc parser.c
+gcc realloc.c
+gcc shell.h
+gcc shell_loop.c
+ls
+gcc shell_loop.c
+ls
+gcc string.c
+gcc string1.c
+gcc tokenizer.c
+gcc vars.c
+ls
+git add .
+git commit -m "simple_shell"
+git push
+ls
+git clone https://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@github.com/Yassine745/simple_shell.git
+ls
+git add .
+git commit -m "simple_shell"
+gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsh
+ks
+ls
+./shell
+./shell_0.3
+ls
+git config --global user.name "Yassine745"
+ls
+git add .
+clear
+echo "# simple_shell" >> README.md
+ls
+git add .
+cd ..
+la
+ls
+cd simple_shell
+ls
+git add /
+git add .
+rm -r simple_shell
+ls
+git add .
+git commit -m "Yassine and Youssef"
+git push
+cd ..
+git clone https://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@github.com/Yassine745/simple_shell.git
+ls
+git add .
+git commit -m "HELLO"
+git push
+git clone https://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@github.com/Yassine745/simple_shell.git
+cd simple_shell
+git clone https://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@github.com/Yassine745/simple_shell.git
+ls
+git add .
+ls
+git clone https://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@github.com/Yassine745/alx-higher_level_programming.git
+mkdir 0x00-python-hello_world
+cd 0x00-python-hello_world
+vi README.md
+ls
+cd ..
+ls
+cd alx-higher_level_programming
+ls
+cd 0x00-python-hello_world
+mkdir 0x00-python-hello_world
+cd 0x00-python-hello_world
+ls
+vi README.md
+ls
+git add .
+git commit -m "python hello world"
+git push
+git pus
+git push
+clear
+ls
+git add .
+git commit -m "python hello world"
+git push
+clear
+git push
+clear
+cd ..
+ls
+git add .
+git commit -m "HELLO"
+git push
+echo "# alx-higher_level_programming" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Yassine745/alx-higher_level_programming.git
+git push -u origin main
+git remote add origin https://github.com/Yassine745/alx-higher_level_programming.git
+git branch -M main
+git push -u origin main
+clear
+ls
+git add .
+git commit -m "HELLO"
+git push
+ls
+cd 0x00-python-hello_world
+clear
+ls
+vi lists.h
+betty lists.h
+vi 0-run
+betty 0-run
+vi 1-run_inline
+betty 1-run_inline
+vi 2-print.py
+betty 2-print.py
+vi 3-print_number.py
+betty 3-print_number.py
+vi 4-print_float.py
+betty 4-print_float.py
+vi 5-print_string.py
+betty 5-print_string.py
+vi 6-concat.py
+betty 6-concat.py
+vi 7-edges.py
+betty 7-edges.py
+vi 7-edges.py
+vi 8-concat_edges.py
+vi 9-easter_egg.py
+vi 10-check_cycle.c
+betty 10-check_cycle.c
+vi 100-write.py
+betty 100-write.py
+vi 101-compile
+betty 101-compile
+vi 102-magic_calculation.py
+betty #!/usr/bin/python3
+def magic_calculation(a, b):
+return (98 + a ** b)
+betty #!/usr/bin/python3
+def magic_calculation(a, b):
+return (98 + a ** b)
+betty 102-magic_calculation.py
+ls
+chmod u+x *
+ls
+chmod u-x README.md
+ls
+chmod u-x lists.h
+ls
+git add .
+git commit -m "python hello world"
+git push
+clear
+exit
+ls
+cd alx-higher_level_programming
+ls
+mkdir 0x01-python-if_else_loops_functions
+cd 0x01-python-if_else_loops_functions
+ls
+vi README.md
+s
+ls
+clear
+vi lists.h
+betty lists.h
+vi 0-positive_or_negative.py
+betty 0-positive_or_negative.py
+vi 1-last_digit.py
+vi 2-print_alphabet.py
+vi 3-print_alphabt.py
+vi 4-print_hexa.py
+vi 5-print_comb2.py
+vi 6-print_comb3.py
+vi 7-islower.py
+vi 8-uppercase.py
+vi 9-print_last_digit.py
+vi 10-add.py
+vi 11-pow.py
+vi 12-fizzbuzz.py
+vi 13-insert_number.c
+vi 100-print_tebahpla.py
+ls
+chmod u+x *
+ls
+chmod u-x README.md
+ls
+chmod u-x lists.h
+ls
+git add .
+git commit -m "python if else loops functions"
+git push
+clear
+exit
+ls
+cd alx-higher_level_programming
+s
+ls
+cd 0x01-python-if_else_loops_functions
+ls
+vi 101-remove_char_at.py
+betty 101-remove_c
+har_at.py
+vi 102-magic_calculation.py
+betty 102-magic_calculation.py
+ls
+chmod u+x *
+ls
+chmod u-x README.md lists.h
+ls
+clear
+git add .
+git commit -m "python if else loops functions"
+git push
+clear
+exit
+ls
+cd alx-higher_level_programming
+ls
+mkdir 0x02-python-import_modules
+cd 0x02-python-import_modules
+ls
+vi README.md
+ls
+clear
+vi 0-add.py
+vi 1-calculation.py
+vi 100-my_calculator.py
+vi 101-easy_print.py
+vi 102-magic_calculation.py
+vi 103-fast_alphabet.py
+vi 2-args.py
+vi 3-infinite_add.py
+vi 4-hidden_discovery.py
+vi 5-variable_load.py
+vi add_0.py
+ls
+chmod u+x *
+ls
+chmod u-x README.md
+ls
+git add .
+clear
+exit
+ls
+cd alx-higher_level_programming
+ls
+cd alx-higher_level_programming
+cd 0x02-python-import_modules
+ls
+git add .
+git commit -m "python import modules"
+git push
+clear
+vi variable_load_5.py
+betty variable_load_5.py
+vi calculator_1.py
+ls
+chmod u+x variable_load_5.py calculator_1.py
+ls
+git add .
+git commit -m "python import modules"
+git push
+exit
+ls
+cd alx-higher_level_programming
+ls
+cd 0x02-python-import_modules
+ls
+clear
+cat calculator_1.py
+./1-calculation.py
+./2-args.py 
+./2-args.py Hello
+./2-args.py Hello Welcome To The Best School
+vi 2-args.py
+betty 2-args.py
+betty 3-infinite_add.py
+betty 4-hidden_discovery.py
+betty 5-variable_load.py
+betty add_0.py
+betty calculator_1.py
+betty variable_load_5.py
+ls
+./2-args.py 
+./2-args.py Hello
+./2-args.py Hello Welcome To The Best School
+./3-infinite_add.py
+./3-infinite_add.py 79 10
+./3-infinite_add.py 79 10 -40 -300 89 
+./3-infinite_add.py 
+curl -Lso "hidden_4.pyc" "https://github.com/alx-tools/0x02.py/raw/master/hidden_4.pyc"
+./4-hidden_discovery.py
+./4-hidden_discovery.py | sort
+cat variable_load_5.py
+cat calculator_1.py
+./100-my_calculator.py
+./100-my_calculator.py ; echo $?
+./100-my_calculator.py 3 H 5 ; echo $?
+./101-easy_print.py
+./103-fast_alphabet.py
+wc -l 103-fast_alphabet.py
+ls
+git add .
+cat add_0.py
+./0-add.py
+cat 0-import_add.py
+python3 0-import_add.py 
+ls
+git add .
+git commit -m "python import modules"
+git push
+clear
+vi 0-add.py
+vi 0-import_add.py
+vi 1-calculation.py
+betty 1-calculation.py
+vi 1-calculation.py
+betty 1-calculation.py
+vi 100-my_calculator.py
+betty 100-my_calculator.py
+vi 100-my_calculator.py
+betty 100-my_calculator.py
+vi 101-easy_print.py
+betty 101-easy_print.py
+vi 102-magic_calculation.py
+betty 102-magic_calculation.py
+vi 103-fast_alphabet.py
+betty 103-fast_alphabet.py
+vi 2-args.py
+betty 2-args.py
+vi 3-infinite_add.py
+betty 3-infinite_add.py
+vi 5-variable_load.py
+betty 5-variable_load.py
+vi calculator_1.py
+vi variable_load_5.py
+betty variable_load_5.py
+ls
+chmod u+x *
+ls
+chmod u-x README.md
+ls
+git add .
+git commit -m "python import modules"
+git push
+ls
+clear
+exit
+ls
+cd alx-higher_level_programming
+ls
+mkdir 0x03-python-data_structures
+cd 0x03-python-data_structures
+ls
+clear
+vi README.md
+betty README.md
+vi 0-print_list_integer.py
+betty 0-print_list_integer.py
+vi 1-element_at.py
+betty 1-element_at.py
+vi 2-replace_in_list.py
+betty 2-replace_in_list.py
+vi 3-print_reversed_list_integer.p
+betty 3-print_reversed_list_integer.p
+vi 3-main.py
+betty 3-main.py
+vi 4-new_in_list.py
+betty 4-new_in_list.py
+vi 5-no_c.py
+betty 5-no_c.py
+vi 6-print_matrix_integer.py
+betty 6-print_matrix_integer.py
+vi 7-add_tuple.py
+betty 7-add_tuple.py
+vi 8-multiple_returns.py
+betty 8-multiple_returns.py
+vi 9-max_integer.py
+betty 9-max_integer.py
+vi 10-divisible_by_2.py
+betty 10-divisible_by_2.py
+vi 11-delete_at.py
+betty 11-delete_at.py
+vi 12-switch.py
+betty 12-switch.py
+vi 13-is_palindrome.c
+betty 13-is_palindrome.c
+vi 100-print_python_list_info.c
+betty 100-print_python_list_info.c
+ls
+chmod u+x *
+ls
+chmod u-x README.md
+ls
+clear
+cat 0-main.py
+git add .
+git commit -m "python-data_structures"
+git push
+clear
+vi 0-main.py
+betty 0-main.py
+./0-main.py
+cat 1-main.py
+vi 1-main.py
+betty 1-main.py
+./1-main.py
+vi 2-main.py
+betty 2-main.py
+./2-main.py
+ls
+git add .
+chmod u+x *
+ls
+git add .
+git commit -m "python-data_structures"
+git push
+vi 100-test_lists.py
+betty 100-test_lists.py
+vi linked_lists.c
+betty linked_lists.c
+vi lists.h
+betty lists.h
+ls
+chmod u+x *
+ls
+git add .
+git commit -m "python-data_structures"
+git push
+vi 3-print_reversed_list_integer.py
+betty 3-print_reversed_list_integer.py
+ls
+chmod u+x *
+git add .
+git commit -m "python-data_structures"
+git push
+exit
+ls
+cd alx-low_level_programming
+ls
+mkdir 0x17-doubly_linked_lists
+cd 0x17-doubly_linked_lists
+clear
+vi 0-main.c
+betty 0-main.c
+vi 0-print_dlistint.c
+betty 0-print_dlistint.c
+vi 1-dlistint_len.c
+betty 1-dlistint_len.c
+ls
+vi 1-main.c
+betty 1-main.c
+vi 103-keygen.c
+betty 103-keygen.c
+vi 2-add_dnodeint.c
+betty 2-add_dnodeint.c
+vi 2-main.c
+betty 2-main.c
+vi 3-add_dnodeint_end.c
+betty 3-add_dnodeint_end.c
+vi 3-main.c
+betty 3-main.c
+vi 4-free_dlistint.c
+betty 4-free_dlistint.c
+vi 4-main.c
+betty 4-main.c
+vi 5-get_dnodeint.c
+betty 5-get_dnodeint.c
+vi 5-main.c
+betty 5-main.c
+vi 6-sum_dlistint.c
+betty 6-sum_dlistint.c
+vi 7-insert_dnodeint.c
+betty 7-insert_dnodeint.c
+vi 7-main.c
+betty 7-main.c
+vi 8-delete_dnodeint.c
+betty 8-delete_dnodeint.c
+vi 8-main.c
+betty 8-main.c
+vi lists.h
+betty lists.h
+ls
+chmod u+x *
+ls
+chmod u-x README.md
+ls
+vi README.md
+ls
+git add .
+git commit -m "0x17-doubly linked lists"
+git push
+clear
+cd ..
+ls
+cd alx-higher_level_programming
+ls
+mkdir 0x04-python-more_data_structures
+cd 0x04-python-more_data_structures
+ls
+vi README.md
+ls
+vi 0-square_matrix_simple.py
+betty 0-square_matrix_simple.py
+vi 1-search_replace.py
+betty 1-search_replace.py
+vi 2-uniq_add.py
+betty 2-uniq_add.py
+vi 3-common_elements.py
+betty 3-common_elements.py
+vi 4-only_diff_elements.py
+betty 4-only_diff_elements.py
+vi 5-number_keys.py
+betty 5-number_keys.py
+vi 6-print_sorted_dictionary.py
+betty 6-print_sorted_dictionary.py
+vi 7-update_dictionary.py
+betty 7-update_dictionary.py
+vi 8-simple_delete.py
+betty 8-simple_delete.py
+vi 9-multiply_by_2.py
+betty 9-multiply_by_2.py
+vi 10-best_score.py
+betty 10-best_score.py
+vi 11-mutiply_list_map.py
+betty 11-mutiply_list_map.py
+vi 12-roman_to_int.py
+betty 12-roman_to_int.py
+vi 100-weight_average.py
+betty 100-weight_average.py
+vi 101-square_matrix_map.py
+betty 101-square_matrix_map.py
+vi 102-complex_delete.py
+betty 102-complex_delete.py
+vi 
+ls
+cd alx-higher_level_programming
+ls
+cd 0x04-python-more_data_structures
+ls
+vi 103-python.c
+betty 103-python.c
+ls
+chmod u+x *
+ls
+chmod u-x README.md
+ls
+giy add .
+git add .
+git commit -m "python-more_data_structures"
+git push
