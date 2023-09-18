@@ -18,7 +18,7 @@ $
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1694735972,,"wq"
+|2,0,1695072740,,"wq"
 :WQ
 |2,0,1694735907,,"WQ"
 :wq!
@@ -94,30 +94,36 @@ $
 |3,1,36,0,1,0,1693954410," "
 
 # File marks:
-'0  5  33  ~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c
-|4,48,5,33,1694735972,"~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c"
-'1  9  32  ~/alx-higher_level_programming/0x04-python-more_data_structures/102-complex_delete.py
-|4,49,9,32,1694735785,"~/alx-higher_level_programming/0x04-python-more_data_structures/102-complex_delete.py"
-'2  3  69  ~/alx-higher_level_programming/0x04-python-more_data_structures/101-square_matrix_map.py
-|4,50,3,69,1694735766,"~/alx-higher_level_programming/0x04-python-more_data_structures/101-square_matrix_map.py"
-'3  13  25  ~/alx-higher_level_programming/0x04-python-more_data_structures/100-weight_average.py
-|4,51,13,25,1694735747,"~/alx-higher_level_programming/0x04-python-more_data_structures/100-weight_average.py"
-'4  40  39  ~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py
-|4,52,40,39,1694735725,"~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py"
-'5  3  54  ~/alx-higher_level_programming/0x04-python-more_data_structures/11-mutiply_list_map.py
-|4,53,3,54,1694735699,"~/alx-higher_level_programming/0x04-python-more_data_structures/11-mutiply_list_map.py"
-'6  6  51  ~/alx-higher_level_programming/0x04-python-more_data_structures/10-best_score.py
-|4,54,6,51,1694735679,"~/alx-higher_level_programming/0x04-python-more_data_structures/10-best_score.py"
-'7  9  23  ~/alx-higher_level_programming/0x04-python-more_data_structures/9-multiply_by_2.py
-|4,55,9,23,1694735657,"~/alx-higher_level_programming/0x04-python-more_data_structures/9-multiply_by_2.py"
-'8  5  28  ~/alx-higher_level_programming/0x04-python-more_data_structures/8-simple_delete.py
-|4,56,5,28,1694735639,"~/alx-higher_level_programming/0x04-python-more_data_structures/8-simple_delete.py"
-'9  6  24  ~/alx-higher_level_programming/0x04-python-more_data_structures/7-update_dictionary.py
-|4,57,6,24,1694735617,"~/alx-higher_level_programming/0x04-python-more_data_structures/7-update_dictionary.py"
+'0  1  32  ~/alx-low_level_programming/0x18-dynamic_libraries/README.md
+|4,48,1,32,1695072740,"~/alx-low_level_programming/0x18-dynamic_libraries/README.md"
+'1  5  33  ~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c
+|4,49,5,33,1694735972,"~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c"
+'2  9  32  ~/alx-higher_level_programming/0x04-python-more_data_structures/102-complex_delete.py
+|4,50,9,32,1694735785,"~/alx-higher_level_programming/0x04-python-more_data_structures/102-complex_delete.py"
+'3  3  69  ~/alx-higher_level_programming/0x04-python-more_data_structures/101-square_matrix_map.py
+|4,51,3,69,1694735766,"~/alx-higher_level_programming/0x04-python-more_data_structures/101-square_matrix_map.py"
+'4  13  25  ~/alx-higher_level_programming/0x04-python-more_data_structures/100-weight_average.py
+|4,52,13,25,1694735747,"~/alx-higher_level_programming/0x04-python-more_data_structures/100-weight_average.py"
+'5  40  39  ~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py
+|4,53,40,39,1694735725,"~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py"
+'6  3  54  ~/alx-higher_level_programming/0x04-python-more_data_structures/11-mutiply_list_map.py
+|4,54,3,54,1694735699,"~/alx-higher_level_programming/0x04-python-more_data_structures/11-mutiply_list_map.py"
+'7  6  51  ~/alx-higher_level_programming/0x04-python-more_data_structures/10-best_score.py
+|4,55,6,51,1694735679,"~/alx-higher_level_programming/0x04-python-more_data_structures/10-best_score.py"
+'8  9  23  ~/alx-higher_level_programming/0x04-python-more_data_structures/9-multiply_by_2.py
+|4,56,9,23,1694735657,"~/alx-higher_level_programming/0x04-python-more_data_structures/9-multiply_by_2.py"
+'9  5  28  ~/alx-higher_level_programming/0x04-python-more_data_structures/8-simple_delete.py
+|4,57,5,28,1694735639,"~/alx-higher_level_programming/0x04-python-more_data_structures/8-simple_delete.py"
 
 # Jumplist (newest first):
+-'  1  32  ~/alx-low_level_programming/0x18-dynamic_libraries/README.md
+|4,39,1,32,1695072740,"~/alx-low_level_programming/0x18-dynamic_libraries/README.md"
 -'  5  33  ~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c
 |4,39,5,33,1694735972,"~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c"
+-'  5  33  ~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c
+|4,39,5,33,1694735972,"~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c"
+-'  1  0  ~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c
+|4,39,1,0,1694735942,"~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c"
 -'  1  0  ~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c
 |4,39,1,0,1694735942,"~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c"
 -'  9  32  ~/alx-higher_level_programming/0x04-python-more_data_structures/102-complex_delete.py
@@ -128,6 +134,22 @@ $
 |4,39,9,32,1694735785,"~/alx-higher_level_programming/0x04-python-more_data_structures/102-complex_delete.py"
 -'  9  32  ~/alx-higher_level_programming/0x04-python-more_data_structures/102-complex_delete.py
 |4,39,9,32,1694735785,"~/alx-higher_level_programming/0x04-python-more_data_structures/102-complex_delete.py"
+-'  9  32  ~/alx-higher_level_programming/0x04-python-more_data_structures/102-complex_delete.py
+|4,39,9,32,1694735785,"~/alx-higher_level_programming/0x04-python-more_data_structures/102-complex_delete.py"
+-'  9  32  ~/alx-higher_level_programming/0x04-python-more_data_structures/102-complex_delete.py
+|4,39,9,32,1694735785,"~/alx-higher_level_programming/0x04-python-more_data_structures/102-complex_delete.py"
+-'  9  32  ~/alx-higher_level_programming/0x04-python-more_data_structures/102-complex_delete.py
+|4,39,9,32,1694735785,"~/alx-higher_level_programming/0x04-python-more_data_structures/102-complex_delete.py"
+-'  9  32  ~/alx-higher_level_programming/0x04-python-more_data_structures/102-complex_delete.py
+|4,39,9,32,1694735785,"~/alx-higher_level_programming/0x04-python-more_data_structures/102-complex_delete.py"
+-'  1  0  ~/alx-higher_level_programming/0x04-python-more_data_structures/102-complex_delete.py
+|4,39,1,0,1694735778,"~/alx-higher_level_programming/0x04-python-more_data_structures/102-complex_delete.py"
+-'  1  0  ~/alx-higher_level_programming/0x04-python-more_data_structures/102-complex_delete.py
+|4,39,1,0,1694735778,"~/alx-higher_level_programming/0x04-python-more_data_structures/102-complex_delete.py"
+-'  1  0  ~/alx-higher_level_programming/0x04-python-more_data_structures/102-complex_delete.py
+|4,39,1,0,1694735778,"~/alx-higher_level_programming/0x04-python-more_data_structures/102-complex_delete.py"
+-'  1  0  ~/alx-higher_level_programming/0x04-python-more_data_structures/102-complex_delete.py
+|4,39,1,0,1694735778,"~/alx-higher_level_programming/0x04-python-more_data_structures/102-complex_delete.py"
 -'  1  0  ~/alx-higher_level_programming/0x04-python-more_data_structures/102-complex_delete.py
 |4,39,1,0,1694735778,"~/alx-higher_level_programming/0x04-python-more_data_structures/102-complex_delete.py"
 -'  1  0  ~/alx-higher_level_programming/0x04-python-more_data_structures/102-complex_delete.py
@@ -152,6 +174,38 @@ $
 |4,39,3,69,1694735766,"~/alx-higher_level_programming/0x04-python-more_data_structures/101-square_matrix_map.py"
 -'  3  69  ~/alx-higher_level_programming/0x04-python-more_data_structures/101-square_matrix_map.py
 |4,39,3,69,1694735766,"~/alx-higher_level_programming/0x04-python-more_data_structures/101-square_matrix_map.py"
+-'  3  69  ~/alx-higher_level_programming/0x04-python-more_data_structures/101-square_matrix_map.py
+|4,39,3,69,1694735766,"~/alx-higher_level_programming/0x04-python-more_data_structures/101-square_matrix_map.py"
+-'  3  69  ~/alx-higher_level_programming/0x04-python-more_data_structures/101-square_matrix_map.py
+|4,39,3,69,1694735766,"~/alx-higher_level_programming/0x04-python-more_data_structures/101-square_matrix_map.py"
+-'  3  69  ~/alx-higher_level_programming/0x04-python-more_data_structures/101-square_matrix_map.py
+|4,39,3,69,1694735766,"~/alx-higher_level_programming/0x04-python-more_data_structures/101-square_matrix_map.py"
+-'  3  69  ~/alx-higher_level_programming/0x04-python-more_data_structures/101-square_matrix_map.py
+|4,39,3,69,1694735766,"~/alx-higher_level_programming/0x04-python-more_data_structures/101-square_matrix_map.py"
+-'  3  69  ~/alx-higher_level_programming/0x04-python-more_data_structures/101-square_matrix_map.py
+|4,39,3,69,1694735766,"~/alx-higher_level_programming/0x04-python-more_data_structures/101-square_matrix_map.py"
+-'  3  69  ~/alx-higher_level_programming/0x04-python-more_data_structures/101-square_matrix_map.py
+|4,39,3,69,1694735766,"~/alx-higher_level_programming/0x04-python-more_data_structures/101-square_matrix_map.py"
+-'  3  69  ~/alx-higher_level_programming/0x04-python-more_data_structures/101-square_matrix_map.py
+|4,39,3,69,1694735766,"~/alx-higher_level_programming/0x04-python-more_data_structures/101-square_matrix_map.py"
+-'  3  69  ~/alx-higher_level_programming/0x04-python-more_data_structures/101-square_matrix_map.py
+|4,39,3,69,1694735766,"~/alx-higher_level_programming/0x04-python-more_data_structures/101-square_matrix_map.py"
+-'  1  0  ~/alx-higher_level_programming/0x04-python-more_data_structures/101-square_matrix_map.py
+|4,39,1,0,1694735759,"~/alx-higher_level_programming/0x04-python-more_data_structures/101-square_matrix_map.py"
+-'  1  0  ~/alx-higher_level_programming/0x04-python-more_data_structures/101-square_matrix_map.py
+|4,39,1,0,1694735759,"~/alx-higher_level_programming/0x04-python-more_data_structures/101-square_matrix_map.py"
+-'  1  0  ~/alx-higher_level_programming/0x04-python-more_data_structures/101-square_matrix_map.py
+|4,39,1,0,1694735759,"~/alx-higher_level_programming/0x04-python-more_data_structures/101-square_matrix_map.py"
+-'  1  0  ~/alx-higher_level_programming/0x04-python-more_data_structures/101-square_matrix_map.py
+|4,39,1,0,1694735759,"~/alx-higher_level_programming/0x04-python-more_data_structures/101-square_matrix_map.py"
+-'  1  0  ~/alx-higher_level_programming/0x04-python-more_data_structures/101-square_matrix_map.py
+|4,39,1,0,1694735759,"~/alx-higher_level_programming/0x04-python-more_data_structures/101-square_matrix_map.py"
+-'  1  0  ~/alx-higher_level_programming/0x04-python-more_data_structures/101-square_matrix_map.py
+|4,39,1,0,1694735759,"~/alx-higher_level_programming/0x04-python-more_data_structures/101-square_matrix_map.py"
+-'  1  0  ~/alx-higher_level_programming/0x04-python-more_data_structures/101-square_matrix_map.py
+|4,39,1,0,1694735759,"~/alx-higher_level_programming/0x04-python-more_data_structures/101-square_matrix_map.py"
+-'  1  0  ~/alx-higher_level_programming/0x04-python-more_data_structures/101-square_matrix_map.py
+|4,39,1,0,1694735759,"~/alx-higher_level_programming/0x04-python-more_data_structures/101-square_matrix_map.py"
 -'  1  0  ~/alx-higher_level_programming/0x04-python-more_data_structures/101-square_matrix_map.py
 |4,39,1,0,1694735759,"~/alx-higher_level_programming/0x04-python-more_data_structures/101-square_matrix_map.py"
 -'  1  0  ~/alx-higher_level_programming/0x04-python-more_data_structures/101-square_matrix_map.py
@@ -200,6 +254,38 @@ $
 |4,39,13,25,1694735747,"~/alx-higher_level_programming/0x04-python-more_data_structures/100-weight_average.py"
 -'  13  25  ~/alx-higher_level_programming/0x04-python-more_data_structures/100-weight_average.py
 |4,39,13,25,1694735747,"~/alx-higher_level_programming/0x04-python-more_data_structures/100-weight_average.py"
+-'  13  25  ~/alx-higher_level_programming/0x04-python-more_data_structures/100-weight_average.py
+|4,39,13,25,1694735747,"~/alx-higher_level_programming/0x04-python-more_data_structures/100-weight_average.py"
+-'  13  25  ~/alx-higher_level_programming/0x04-python-more_data_structures/100-weight_average.py
+|4,39,13,25,1694735747,"~/alx-higher_level_programming/0x04-python-more_data_structures/100-weight_average.py"
+-'  13  25  ~/alx-higher_level_programming/0x04-python-more_data_structures/100-weight_average.py
+|4,39,13,25,1694735747,"~/alx-higher_level_programming/0x04-python-more_data_structures/100-weight_average.py"
+-'  13  25  ~/alx-higher_level_programming/0x04-python-more_data_structures/100-weight_average.py
+|4,39,13,25,1694735747,"~/alx-higher_level_programming/0x04-python-more_data_structures/100-weight_average.py"
+-'  13  25  ~/alx-higher_level_programming/0x04-python-more_data_structures/100-weight_average.py
+|4,39,13,25,1694735747,"~/alx-higher_level_programming/0x04-python-more_data_structures/100-weight_average.py"
+-'  13  25  ~/alx-higher_level_programming/0x04-python-more_data_structures/100-weight_average.py
+|4,39,13,25,1694735747,"~/alx-higher_level_programming/0x04-python-more_data_structures/100-weight_average.py"
+-'  13  25  ~/alx-higher_level_programming/0x04-python-more_data_structures/100-weight_average.py
+|4,39,13,25,1694735747,"~/alx-higher_level_programming/0x04-python-more_data_structures/100-weight_average.py"
+-'  13  25  ~/alx-higher_level_programming/0x04-python-more_data_structures/100-weight_average.py
+|4,39,13,25,1694735747,"~/alx-higher_level_programming/0x04-python-more_data_structures/100-weight_average.py"
+-'  13  25  ~/alx-higher_level_programming/0x04-python-more_data_structures/100-weight_average.py
+|4,39,13,25,1694735747,"~/alx-higher_level_programming/0x04-python-more_data_structures/100-weight_average.py"
+-'  13  25  ~/alx-higher_level_programming/0x04-python-more_data_structures/100-weight_average.py
+|4,39,13,25,1694735747,"~/alx-higher_level_programming/0x04-python-more_data_structures/100-weight_average.py"
+-'  13  25  ~/alx-higher_level_programming/0x04-python-more_data_structures/100-weight_average.py
+|4,39,13,25,1694735747,"~/alx-higher_level_programming/0x04-python-more_data_structures/100-weight_average.py"
+-'  13  25  ~/alx-higher_level_programming/0x04-python-more_data_structures/100-weight_average.py
+|4,39,13,25,1694735747,"~/alx-higher_level_programming/0x04-python-more_data_structures/100-weight_average.py"
+-'  13  25  ~/alx-higher_level_programming/0x04-python-more_data_structures/100-weight_average.py
+|4,39,13,25,1694735747,"~/alx-higher_level_programming/0x04-python-more_data_structures/100-weight_average.py"
+-'  13  25  ~/alx-higher_level_programming/0x04-python-more_data_structures/100-weight_average.py
+|4,39,13,25,1694735747,"~/alx-higher_level_programming/0x04-python-more_data_structures/100-weight_average.py"
+-'  13  25  ~/alx-higher_level_programming/0x04-python-more_data_structures/100-weight_average.py
+|4,39,13,25,1694735747,"~/alx-higher_level_programming/0x04-python-more_data_structures/100-weight_average.py"
+-'  13  25  ~/alx-higher_level_programming/0x04-python-more_data_structures/100-weight_average.py
+|4,39,13,25,1694735747,"~/alx-higher_level_programming/0x04-python-more_data_structures/100-weight_average.py"
 -'  1  0  ~/alx-higher_level_programming/0x04-python-more_data_structures/100-weight_average.py
 |4,39,1,0,1694735737,"~/alx-higher_level_programming/0x04-python-more_data_structures/100-weight_average.py"
 -'  1  0  ~/alx-higher_level_programming/0x04-python-more_data_structures/100-weight_average.py
@@ -230,94 +316,15 @@ $
 |4,39,1,0,1694735737,"~/alx-higher_level_programming/0x04-python-more_data_structures/100-weight_average.py"
 -'  1  0  ~/alx-higher_level_programming/0x04-python-more_data_structures/100-weight_average.py
 |4,39,1,0,1694735737,"~/alx-higher_level_programming/0x04-python-more_data_structures/100-weight_average.py"
--'  1  0  ~/alx-higher_level_programming/0x04-python-more_data_structures/100-weight_average.py
-|4,39,1,0,1694735737,"~/alx-higher_level_programming/0x04-python-more_data_structures/100-weight_average.py"
--'  40  39  ~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py
-|4,39,40,39,1694735725,"~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py"
--'  40  39  ~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py
-|4,39,40,39,1694735725,"~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py"
--'  40  39  ~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py
-|4,39,40,39,1694735725,"~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py"
--'  40  39  ~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py
-|4,39,40,39,1694735725,"~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py"
--'  40  39  ~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py
-|4,39,40,39,1694735725,"~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py"
--'  40  39  ~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py
-|4,39,40,39,1694735725,"~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py"
--'  40  39  ~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py
-|4,39,40,39,1694735725,"~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py"
--'  40  39  ~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py
-|4,39,40,39,1694735725,"~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py"
--'  40  39  ~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py
-|4,39,40,39,1694735725,"~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py"
--'  40  39  ~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py
-|4,39,40,39,1694735725,"~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py"
--'  40  39  ~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py
-|4,39,40,39,1694735725,"~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py"
--'  40  39  ~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py
-|4,39,40,39,1694735725,"~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py"
--'  40  39  ~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py
-|4,39,40,39,1694735725,"~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py"
--'  40  39  ~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py
-|4,39,40,39,1694735725,"~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py"
--'  40  39  ~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py
-|4,39,40,39,1694735725,"~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py"
--'  40  39  ~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py
-|4,39,40,39,1694735725,"~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py"
--'  40  39  ~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py
-|4,39,40,39,1694735725,"~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py"
--'  40  39  ~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py
-|4,39,40,39,1694735725,"~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py"
--'  40  39  ~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py
-|4,39,40,39,1694735725,"~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py"
--'  40  39  ~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py
-|4,39,40,39,1694735725,"~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py"
--'  40  39  ~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py
-|4,39,40,39,1694735725,"~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py"
--'  40  39  ~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py
-|4,39,40,39,1694735725,"~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py"
--'  40  39  ~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py
-|4,39,40,39,1694735725,"~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py"
--'  40  39  ~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py
-|4,39,40,39,1694735725,"~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py"
--'  40  39  ~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py
-|4,39,40,39,1694735725,"~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py"
--'  40  39  ~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py
-|4,39,40,39,1694735725,"~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py"
--'  40  39  ~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py
-|4,39,40,39,1694735725,"~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py"
--'  40  39  ~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py
-|4,39,40,39,1694735725,"~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py"
--'  40  39  ~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py
-|4,39,40,39,1694735725,"~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py"
--'  40  39  ~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py
-|4,39,40,39,1694735725,"~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py"
--'  40  39  ~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py
-|4,39,40,39,1694735725,"~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py"
--'  40  39  ~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py
-|4,39,40,39,1694735725,"~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py"
--'  1  0  ~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py
-|4,39,1,0,1694735710,"~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py"
--'  1  0  ~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py
-|4,39,1,0,1694735710,"~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py"
--'  1  0  ~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py
-|4,39,1,0,1694735710,"~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py"
--'  1  0  ~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py
-|4,39,1,0,1694735710,"~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py"
--'  1  0  ~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py
-|4,39,1,0,1694735710,"~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py"
--'  1  0  ~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py
-|4,39,1,0,1694735710,"~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py"
--'  1  0  ~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py
-|4,39,1,0,1694735710,"~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py"
--'  1  0  ~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py
-|4,39,1,0,1694735710,"~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py"
--'  1  0  ~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py
-|4,39,1,0,1694735710,"~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py"
--'  1  0  ~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py
-|4,39,1,0,1694735710,"~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py"
 
 # History of marks within files (newest to oldest):
+
+> ~/alx-low_level_programming/0x18-dynamic_libraries/README.md
+	*	1695072739	0
+	"	1	32
+	^	1	33
+	.	1	12
+	+	1	12
 
 > ~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c
 	*	1694735970	0
@@ -1247,10 +1254,3 @@ $
 	^	2	34
 	.	3	0
 	+	3	0
-
-> ~/alx-higher_level_programming/0x00-python-hello_world/100-write.py
-	*	1693867366	0
-	"	4	10
-	^	4	11
-	.	5	0
-	+	5	0

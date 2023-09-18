@@ -1,14 +1,3 @@
-ls
-cp 9-strcpy.c
-cp _putchar.c ~/t
-clear
-cd ..
-cd 0x09-static_libraries
-vi README.md
-vi main.h
-vi _putchar.c
-vi 0-isupper.o
-ls
 vi 0-isupper.c
 ls
 gcc -c *.c
@@ -1998,3 +1987,14 @@ giy add .
 git add .
 git commit -m "python-more_data_structures"
 git push
+ls
+git clone https://github.com/Yassine745/alx-low_level_programming.git
+git clone https://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@github.com/HindZiki/alx-low_level_programming.git 
+ls
+git add .
+cd alx-low_level_programming
+ls
+git add .
+git commit -m "HELLO"
+git push
+exit
