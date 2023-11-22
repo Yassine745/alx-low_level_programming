@@ -1,589 +1,3 @@
-vi 0-isupper.c
-ls
-gcc -c *.c
-ls
-ar rcs libmy.a
-ls
-ar rcs libmy.a *o
-ls
-ar -t libmy.a
-nm libmy.a 
-vi create_static_lib.sh
-ar -t liball.a
-ls
-chmod u+x create_static_lib.sh
-git add .
-git commit -m "Update" 
-git push
-vi 0-isupper.o
-betty 0-isupper.o
-ls
-vi 0-memset.o
-betty 0-memset.o
-ls
-vi 0-strcat.o
-betty 0-strcat.o
-vi 1-isdigit.o
-betty 1-isdigit.o
-vi 1-memcpy.o
-betty 1-memcpy.o
-vi 1-strncat.o
-bety 1-strncat.o
-betty 1-strncat.o
-vi 100-atoi.o
-betty 100-atoi.o
-vi 2-strchr.o
-betty 2-strchr.o
-ls
-vi 2-strlen.o
-betty 2-strlen.o
-vi 2-strncpy.o
-betty 2-strncpy.o
-vi 3-islower.o
-betty 3-islower.o
-vi 3-puts.o
-betty 3-puts.o
-vi 3-strcmp.o
-betty 3-strcmp.o
-vi 3-strspn.o
-betty 3-strspn.o
-vi 4-isalpha.o
-betty 4-isalpha.o
-vi 4-strpbrk.o
-betty 4-strpbrk.o 
-vi 5-strstr.o
-betty 5-strstr.o
-vi 6-abs.o
-betty 6-abs.o
-vi 9-strcpy.o
-betty 9-strcpy.o
-ls
-vi _putchar.o
-betty _putchar.o
-ls
-gcc -c *.c
-ls
-ar rcs libmy.a
-ls
-ar rcs libmy.a *o
-ls
-ar -t libmy.a 
-nm libmy.a
-git add .
-git commit -m "Update"
-git push
-vi 0-memset.o
-ls
-vi 0-isupper.c
-vi 0-putchar.c
-vi 0-putchar.o
-vi 0-memset.o
-ls
-clear
-cd ..
-cd 0x0A-argc_argv
-mkdir 0x0A-argc_argv
-cd 0x0A-argc_argv
-clear
--Wall -Werror -Wextra -pedantic -std=gnu89
-ls
-cd alx-low_level_programming
-cd 0x0A-argc_argv
-mkdir 0x0A-argc_argv
-cd 0x0A-argc_argv
-ls
-cd alx-low_level_programming
-cd 0x0A-argc_argv
-mkdir 0x0A-argc_argv
-cd 0x0A-argc_argv
-cd 0x09-static_libraries
-ls
-clear
-ls
-vi libmy.a
-cd ~
-ls
-mkdir t
-ls
-cd alx-low_level_programming
-ls
-cd 0x05-pointers_arrays_strings
-ls
-cp _putchar.c 
-cp _putchar.c ~/t
-cp _putchar.c
-ls ~/t
-ls
-cp _putchar.c ~/t
-ls
-cp '_putchar.c'
-cp 'cp _putchar.c' ~/t
-cp '_putchar.c' ~/t
-cp '_putchar.c' 
-cp cp '_putchar.c' ~\t
-ls
-cp 100-atoi.c
-cp 100-atoi.c ~/t
-cp 3-puts.c ~/t
-cp 2-strlen.c ~/t
-cp 9-strcpy.c ~/t
-cp _putchar.c ~/t
-ls ~/t
-cd ..
-clear
-ls
-cd 0x06-pointers_arrays_strings
-ls
-cp 0-strcat.c ~/t
-cp 1-strncat.c ~/t
-cp 3-strcmp.c ~/t
-cp 2-strncpy.c ~/t
-ls ~/t
-cd ..
-cd 0x07-pointers_arrays_strings
-ls
-cp 0-memset.c ~/t
-cp 1-memcpy.c ~/t
-cp 4-strpbrk.c ~/t
-cp 2-strchr.c ~/t
-cp 5-strstr.c ~/t
-cp 3-strspn.c ~/t
-ls ~/t
-ls ~/t | wc -1
-ls ~/t | wc -l
-cd ..
-find . -type f -name "isupper"
-ls
-cd 0x04-more_functions_nested_loops
-ls
-cp 0-isupper.c ~/t
-cp 1-isdigit.c ~/t
-cd ..
-cd 0x03-debugging
-ls
-cd ..
-ls
-cd 0x02-functions_nested_loops
-ls
-cp 6-abs.c ~/t
-cp 3-islower.c ~/t
-cp 4-isalpha.c ~/t
-ls ~/t | wc -l
-ls ~/t
-cd ~/t
-ls
-cp * ~/alx-low_level_programming/0x09-static_libraries/
-cd ~/alx-low_level_programming/
-cd 0x09-static_libraries
-ls
-gcc -c *.c
-la
-ls
-ar rc libmy.a *.o
-ls
-vi main.c
-ar -t libmy.a
-nm libmy.a 
-gcc -std=gnu89 main.c -L. -lmy -o quote
-ls
-./quote 
-git add .
-git commit -m "libmy"
-git push
-ls
-clear
-exit
-ls
-cd alx-low_level_programming
-ls
-cd 0x09-static_libraries
-clear
-ls
-gcc - *.c
-apt install gcc
-clear
-gcc - *.c
-clear
-ls
-gcc - *.c 
-gcc -E
-clear
-gcc - *.c 
-ar rcs libmy.a
-ar rcs libmy.a *.o
-ar -t libmy.a
-nm libmy.a
-clear
-ls
-cd ..
-clear
-ls
-rm -r 0x09-static_libraries
-la
-clear
-ls
-mkdir 0x09-static_libraries
-cd 0x09-static_libraries
-vi README.md
-git add .
-git commit -m "Hello "
-git push
-clear
-vi main.h
-vi 0-putchar.c
-vi 0-isupper.c
-vi 0-memset.c
-vi 0-strcat.c
-vi 1-isdigit.c
-vi 1-memcpy.c
-vi 1-strncat.c
-vi 2-strchr.c
-vi 2-strlen.c
-vi 2-strncpy.c
-vi 3-islower.c
-vi 3-puts.c
-vi 3-strcmp.c
-vi 3-strspn.c
-vi 4-isalpha.c
-vi 4-strpbrk.c
-vi 5-strstr.c
-vi 6-abs.c
-vi 9-strcpy.c
-vi 100-atoi.c
-clear
-ls
-betty 0-isupper.c
-betty 0-memset.c
-betty 0-putchar.c
-betty 0-strcat.c
-betty 1-isdigit.c
-betty 1-memcpy.c
-betty 1-strncat.c
-betty 100-atoi.c
-betty 2-strchr.c
-betty 2-strlen.c
-clear
-ls
-betty 2-strncpy.c
-betty 3-islower.c
-betty 3-puts.c
-betty 3-strcmp.c
-betty 3-strspn.c
-betty 4-isalpha.c
-betty 4-strpbrk.c
-betty 5-strstr.c
-betty 6-abs.c
-betty 9-strcpy.c
-clear
-ls
-gcc - *.c
-ar rcs libmy.a
-ar rcs libmy.a *.o
-ar -t libmy.a
-nm libmy.a  
-clear
-gcc - *.c
-gcc - *.E
-cleat
-exit
-ls
-alx-low_level_programming
-cd alx-low_level_programming
-clear
-ls
-cd 0x09-static_libraries
-clear
-ls
-gcc - *.c
-apt gcc install
-clear
-ar -t libmy.a 
-ls
-nm libmy.a 
-ls
-clear
-sudo apt update
-clear
-sudo apt install build-essential
-clea
-clear
-sudo apt-get install manpages-dev
-gcc --version
-ls
-clear
-ls
-gcc - *.c
-gcc -o output_file *.c
-gcc -E *.c
-clear
-ls
-gcc - *.c 
-ar rcs libmy.a
-ar rcs libmy.a *.o
-ar -t libmy.a
-nm libmy.a
-clear
-gcc -c  *.c
-ar rcs libmy.a
-ar rcs libmy.a *.o
-ar -t libmy.a
-nm libmy.a
-gitadd .
-git add .
-git commit -m "Updated"
-git push
-exit
-cd alx-low_level_programming
-ls
-mkdir 0x0A-argc_argv
-cd 0x0A-argc_argv
-rm -r 0x0A-argc_argv
-clear
-mkdir 0x0A-argc_argv
-cd 0x0A-argc_argv
-clear
-vi README.md
-vi  
-cd alx-low_level_programming
-cd 0x0A-argc_argv
-ls
-vi README.md
-ls
-vi 0-whatsmyname.c
-betty 0-whatsmyname.c
-vi main.h
-betty main.h
-vi _putchar.c
-betty _putchar.c
-vi 1-args.c
-betty 1-args.c
-vi 2-args.c
-betty 2-args.c
-vi 3-mul.c
-betty 3-mul.c
-vi 3-mul.c
-betty 3-mul.c
-vi 4-add.c
-betty 4-add.c
-vi 100-change.c
-betty 100-change.c
-ls
-clear
-git add .
-git commit -m "Updates"
-git push
-clean
-ls
-alx-low_level_programming
-cd alx-low_level_programming
-cd 0x0B-malloc_free
-mkdir 0x0B-malloc_free
-cd 0x0B-malloc_free
-ls
-vi README.md
-ls
-vi main.h
-betty main.h
-vi _putchar.c
-betty _putchar.c
-ls
-vi 0-create_array.c
-betty 0-create_array.c
-vi 1-strdup.c
-betty 1-strdup.c
-vi 2-str_concat.c
-betty 2-str_concat.c
-vi 3-alloc_grid.c
-betty 3-alloc_grid.c
-vi 4-free_grid.c
-betty 4-free_grid.c
-vi 100-argstostr.c
-betty 100-argstostr.c
-vi 101-strtow.c
-betty 101-strtow.c
-ls
-clear
-ls
-vi 0-main.c
-betty 0-main.c
-ls
-gcc -Wall -pedantic -Werror -Wextra -std=gnu89 0-main.c 0-create_array.c -o a
-./a
-vi 1-main.c
-betty 1-main.c
-gcc -Wall -pedantic -Werror -Wextra -std=gnu89 1-main.c 1-strdup.c -o s
-./s 
-vi 2-main.c
-betty 2-main.c
-gcc -Wall -pedantic -Werror -Wextra -std=gnu89 2-main.c 2-str_concat.c -o c
-git add .
-git commit -m "C malloc free"
-git push
-clear
-ls
-vi 0-main.c
-clear
-exit
-ls
-cd zero_day
-ls
-cd alx-zero_day
-cd alx-system_engineering-devops
-mkdir alx-system_engineering-devops
-cd alx-system_engineering-devops
-ls
-cd alx-low_level_programming
-mkdir alx-low_level_programming
-cd alx-low_level_programming
-ls
-git add .
-git commit -m "HIND"
-git push
-vi README.md
-vi HIND
-ls
-vi HIND
-ls
-cat HIND
-git add .
-git commit -m "HELLO"
-git push
-innclude
-vi HIND
-ls
-cd alx-low_level_programming
-ls
-vi alx-low_level_programming
-ls
-cd alx-low_level_programming
-ls
-cd 0x0C-more_malloc_free
-mkdir 0x0C-more_malloc_free
-cd 0x0C-more_malloc_free
-clear
-vi README.md
-ls
-vi main.h
-betty main.h
-vi 0-malloc_checked.c
-vi 1-string_nconcat.c
-betty 1-string_nconcat.c
-vi 1-string_nconcat.c
-betty 1-string_nconcat.c
-vi 1-string_nconcat.c
-betty 1-string_nconcat.c
-ls
-vi 2-calloc.c
-betty 2-calloc.c\
-vi 3-array_range.c
-betty 3-array_range.c
-vi 100-realloc.c
-betty 100-realloc.c
-vi 101-mul.c
-betty 101-mul.c
-vi _putchar.c
-betty _putchar.c
-clear
-ls
-betty 0-malloc_checked.c  100-realloc.c  2-calloc.c       README.md   main.h
-1-string_nconcat.c  101-mul.c      3-array_range.c  _putchar.c0-malloc_checked.c  100-realloc.c  2-calloc.c       README.md   main.h
-1-string_nconcat.c  101-mul.c      3-array_range.c  _putchar.c
-ls
-clear
-vi 0-main.c
-betty 0-main.c
-gcc -Wall -pedantic -Werror -Wextra -std=gnu89 0-main.c 0-malloc_checked.c -o a
-./a 
-echo $?
-vi 1-main.c
-betty 1-main.c
-gcc -Wall -pedantic -Werror -Wextra -std=gnu89 1-main.c 1-string_nconcat.c -o 1-string_nconcat
-./1-string_nconcat
-vi 2-main.c
-betty 2-main.c
-vi -main.c
-vi 2-main.c
-betty 2-main.c
-gcc -Wall -pedantic -Werror -Wextra -std=gnu89 2-main.c 2-calloc.c -o 2-calloc
-./2-calloc
-clear
-vi 3-main.c
-betty 
-betty 3-main.c
-gcc -Wall -pedantic -Werror -Wextra -std=gnu89 3-main.c 3-array_range.c -o 3-array_range
-./3-array_range
-vi 100-main.c
-betty 100-main.c
-gcc -Wall -pedantic -Werror -Wextra -std=gnu89 100-main.c 100-realloc.c -o 100-realloc
-./100-realloc
-gcc -Wall -pedantic -Werror -Wextra -std=gnu89 101-mul.c _putchar.c -o 101-mul
-./101-mul 10 98
-./101-mul
-clear
-ls
-git add .
-git commit -m "C - More malloc, free"
-git push
-clear
-exit
-cd alx-low_level_programming
-cd 0x0E-structures_typedef
-mkdir 0x0E-structures_typedef
-cd 0x0E-structures_typedef
-ls
-vi README.md
-ls
-clear
-vi dog.h
-betty dog.h
-vi dog.h
-betty dog.h
-vi dog.h
-vi 1-init_dog.c
-betty 1-init_dog.c
-vi 2-print_dog.c
-betty 2-print_dog.c
-vi 4-new_dog.c
-betty 4-new_dog.c
-vi 5-free_dog.c
-betty 5-free_dog.c
-clear
-vi 0-main.c
-betty 0-main.c
-gcc -Wall -pedantic -Werror -Wextra -std=gnu89 0-main.c -o a
-./a 
-vi 1-main.c
-betty 1-main.c
-gcc -Wall -pedantic -Werror -Wextra -std=gnu89 1-main.c 1-init_dog.c -o b
-./b
-vi 2-main.c
-betty 2-main.c
-gcc -Wall -pedantic -Werror -Wextra -std=gnu89 2-main.c 2-print_dog.c -o c
-./c
-vi 3-main.c
-betty 3-main.c
-gcc -Wall -pedantic -Werror -Wextra -std=gnu89 3-main.c -o d
-./d
-vi 4-main.c
-betty 4-main.c
-gcc -Wall -pedantic -Werror -Wextra -std=gnu89 4-main.c 4-new_dog.c -o e
-./e
-vi 5-main.c
-betty 5-main.c
-gcc -Wall -pedantic -Werror -Wextra -std=gnu89 5-main.c 5-free_dog.c 4-new_dog.c -o f
-./f
-ls
-clear
-ls
-git add .
-git commit -m "C - Structures, typedef"
-git push
-clear
-betty dog.h
-vi dog.h
-betty dog.h
-vi dog.h
-betty dog.h
 ls
 git add .
 git commit -m "C - Structures, typedef"
@@ -1997,4 +1411,590 @@ ls
 git add .
 git commit -m "HELLO"
 git push
+exit
+ls
+git clone https://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@github.com/HindZiki/alx-low_level_programming.git 
+ls
+cd alx-low_level_programming
+ls
+git add .
+git commit -m "HELLO"
+git push
+rm -rf alx-low_level_programming
+cd ..
+ls
+mkdir alx-low_level_programming
+ls
+cd alx-low_level_programming
+ls
+cd ..
+rm -rf alx-low_level_programming
+ls
+mkdir alx-low_level_programming
+cd alx-low_level_programming
+ls
+mkdir 0x18-dynamic_libraries
+cd 0x18-dynamic_libraries
+vi README.md
+ls
+git add .
+ls
+git add .
+git commit -m "HELLO"
+cd ..
+git add .
+ls
+cd ..
+ls
+rm -rf alx-low_level_programming
+ls
+git add .
+git commit -m "HELLO"
+git push
+ls
+mkdir alx-low_level_programming
+cd alx-low_level_programming
+ls
+mkdir 0x18-dynamic_libraries
+cd 0x18-dynamic_libraries
+ls
+vi README.md
+ls
+git add .
+git commit -m "HELL"
+git push
+ls
+cd ..
+ls
+ls -la lib*
+ls
+cd 0x18-dynamic_libraries
+ls
+clear
+vi main.h
+ls
+betty main.h
+git add .
+git commit -m "C - Dynamic libraries"
+git push
+ls -la lib*
+ls
+git clone https://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@github.com/Yassine745/RSA-Factoring-Challenge.git
+ls
+cd RSA-Factoring-Challenge
+vi factors
+betty factors
+cat tests/test00 
+vi rsa
+betty rsa
+cat tests/rsa-1
+./rsa tests/rsa-1
+cat tests/rsa-2
+time ./factors tests/test00
+git add .
+git commit -m "Project"
+git push
+cat tests/test00 
+time ./factors tests/test00
+cat tests/rsa-1
+6
+cat tests/rsa-1
+6]
+cat tests/rsa-1
+6cat tests/rsa-1
+cat tests/rsa-1
+./rsa tests/rsa-1
+cat tests/rsa-2
+./rsa tests/rsa-2
+[...]
+cat tests/rsa-15
+./rsa tests/rsa-15
+./rsa tests/rsa-16
+[...]
+cd ..
+git clone https://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@github.com/HindZiki/alx-low_level_programming.git
+ls
+cd alx-low_level_programming
+ls
+cd 0x18-dynamic_libraries
+ls
+git add .
+git commit -m "dynamic_libraries"
+git push
+cd ..
+;s
+ls
+cd RSA-Factoring-Challenge
+ls
+vi factors
+betty factors
+vi rsa
+betty rsa
+cat tests/test00
+time ./factors tests/test00
+cat tests/rsa-1
+./rsa tests/rsa-1
+cat tests/rsa-2
+[...] 
+cat tests/rsa-15
+git add .
+git commit -m "RSA-Factoring-Challenge"
+git push
+ls
+cd alx-low_level_programming
+ls
+cd 0x18-dynamic_libraries
+ls
+cat main.
+cat main.h
+vi main.h
+betty main.h
+vi 0-main.c
+betty 0-main.c
+vi 0-main.c
+betty 0-main.c
+vi 100-tests.py
+betty 100-tests.py
+vi 101-make_me_win.sh
+betty 101-make_me_win.sh
+https://github.com/Yassine745/0x18-dynamic_libraries/raw/master/liball.so
+ls
+git add .
+git commit -m "dynamic_libraries"
+git push
+https://github.com/johnsmccain/0x18-dynamic_libraries/raw/master/libdynamic.so
+https://github.com/Yassine745/0x18-dynamic_libraries/raw/master/libdynamic.so
+ls -la lib*
+ls *.c
+./1-create_dynamic_lib.sh 
+nm -D --defined-only liball.so 
+cat 100-tests.py
+python3 100-tests.py 
+clear
+vi 0-isupper.c
+betty 0-isupper.c
+vi 0-isupper.c
+betty 0-isupper.c
+vi 0-memset.c
+betty 0-memset.c
+vi 0-strcat.c
+betty 0-strcat.c
+vi 0-strcat.c
+vi ls -la lib*
+ls
+vi 1-create_dynamic_lib.sh
+betty 1-create_dynamic_lib.sh
+vi 1-create_dynamic_lib.sh
+betty 1-create_dynamic_lib.sh
+vi 1-isdigit.c
+betty 1-isdigit.c
+vi 1-memcpy.c
+betty 1-memcpy.c
+vi 1-strncat.c
+betty 1-strncat.c
+vi 100-atoi.c
+betty 100-atoi.c
+ls
+clear
+vi 2-strchr.c
+betty 
+betty 2-strchr.c
+vi 2-strlen.c
+betty 2-strlen.c
+vi 2-strncpy.c
+betty 2-strncpy.c
+vi 3-islower.c
+betty 3-islower.c
+vi 3-puts.c
+betty 3-puts.c\
+betty 3-puts.c
+vi 3-strcmp.c
+betty 3-strcmp.c
+vi 3-strspn.c
+betty 3-strspn.c
+vi 4-isalpha.c
+betty 4-isalpha.c
+vi 4-strpbrk.c
+betty 4-strpbrk.c
+vi 5-strstr.c
+betty 5-strstr.c
+vi 6-abs.c
+betty 6-abs.c
+vi 9-strcpy.c
+betty 9-strcpy.c
+vi README.md
+vi _putchar.c
+betty _putchar.c
+https://github.com/Yassine745/0x18-dynamic_libraries/raw/main/liball.so
+https://github.com/Yassine745/0x18-dynamic_libraries/raw/main/libdynamic.so
+vi main.h
+ls
+ls -la lib*
+nm -D libdynamic.so 
+cat 0-main.c
+gcc -Wall -pedantic -Werror -Wextra -L. 0-main.c -ldynamic -o len
+ldd len 
+./len
+ls *.c
+./1-create_dynamic_lib.sh
+nm -D --defined-only liball.so 
+cat 100-tests.py
+python3 100-tests.py 
+git add .
+git commit -m "dynamic_libraries"
+git push
+ls
+cd alx-low_level_programming
+ls
+cd 0x18-dynamic_libraries
+ls
+clear 
+ls
+chmod u+x *.c
+ls
+git add .
+git commit -m "Updated"
+git push
+clear 
+git status 
+git push
+clear 
+cd ..
+cd .
+cd ..
+git clone https://github.com/Yassine745/alx-low_level_programming.git
+clear 
+rm -r alx-low_level_programming
+clear 
+ls
+git clone https://github.com/Yassine745/alx-low_level_programming.git
+ls
+cd alx-low_level_programming
+ls
+rm -r alx-low_level_programming
+git add .
+git commit -m "Updated"
+git push
+clear 
+ls
+rm -r 1-compiler 1-last_digit.c
+ls
+clear 
+git add .
+git commit -m "Updated"
+git push
+clear 
+ls
+vi README.md
+mkdir 0x18-dynamic_libraries
+cd 0x18-dynamic_libraries
+vi README.md
+clear 
+git add .
+git commit -m "Updated"
+git push
+ls
+cd ..
+ls
+wget https://github.com/alx-tools/0x18.c/raw/master/101-md5_gm
+wget https://github.com/alx-tools/0x18.c/raw/master/gm
+clear 
+vi 101-make_me_win.sh
+git add.
+git add .
+git commit -m "0X18"
+git push
+clear 
+ls
+cd 0x18-dynamic_libraries
+ls
+vi 101-make_me_win.sh
+git add .
+git commit -m "Updated"
+git push
+wget https://github.com/sadatmisr/alx/raw/main/0x18%20C%20-%20Dynamic%20libraries/libdynamic.so
+clear 
+ls
+wget https://github.com/sadatmisr/alx/raw/main/0x18%20C%20-%20Dynamic%20libraries/libdynamic.so
+vi main.h
+clear 
+ls
+chmod +x libdynamic.so  libdynamic.so.1
+ls
+chmod +x main.h
+git add .
+git commit -m "Updated"
+git push
+exit
+ls
+cd alx-low_level_programming
+cd 0x18-dynamic_libraries
+ls
+eit 
+exit 
+ls
+cd alx-low_level_programming
+cd 0x18-dynamic_libraries
+ls
+vi 100-operations.c
+gcc -shared -o 100-operations.so 100-operations.c
+vi 100-tests.py
+python3 100-tests.py
+clear 
+ls
+gwet https://github.com/Thejo96/alx-low_level_programming/raw/master/0x18-dynamic_libraries/100-operations.o
+wget https://github.com/Thejo96/alx-low_level_programming/raw/master/0x18-dynamic_libraries/100-operations.o
+clear 
+wget https://github.com/Thejo96/alx-low_level_programming/raw/master/0x18-dynamic_libraries/100-operations.so
+ls
+chmod +x *.o
+ls
+clear 
+git add .
+git commit -m "Updat"
+git push
+clear 
+ls
+git push
+git status
+git branch 
+git push
+git pull origin master  # Assuming you are working with the 'master' branch
+clear 
+git pull origin master
+git push origin master
+git push -f origin master
+cat 100-tests.py
+exit
+ls
+cd alx-higher_level_programming
+ls
+mkdir 0x05-python-exceptions
+cd 0x05-python-exceptions
+ls
+vi README.md
+git add .
+git commit -m "UPDATE"
+git push
+ls
+cd alx-higher_level_programming
+ls
+cd 0x05-python-exceptions
+ls
+git add .
+git commit -m "Update"
+git push
+ls
+git add .
+git commit -m "Update"
+git pull
+git push
+git branch -a
+git checkout 
+git checkout main
+git add .
+git commit -m "Update"
+git pull
+git push
+git push -f
+vi 0-safe_print_list.py
+vi 0-main.py
+./0-main.py
+git add .
+git commit -m "python-exceptions"
+git push
+vi 
+ls
+cd alx-higher_level_programming
+ls
+cd 0x05-python-exceptions
+ls
+vi 1-safe_print_integer.py
+vi 100-main.py
+vi 100-safe_print_integer_err.py
+vi 101-main.py
+vi 101-safe_function.py
+vi 102-magic_calculation.py
+vi 103-python.c
+vi 2-main.py
+vi 2-safe_print_list_integers.py
+vi 3-main.py
+vi 3-safe_print_division.py
+vi 4-list_division.py
+vi 4-main.py
+vi 5-main.py
+vi 5-raise_exception.py
+vi 6-main.py
+vi 6-raise_exception_msg.p
+ls
+cat 2-main.py
+./2-main.py
+cat 3-main.py
+./3-main.py
+cat 4-main.py
+./4-main.py
+cat 5-main.py
+./5-main.py
+cat 6-main.py
+./6-main.py
+./100-main.py 2> /dev/null
+./101-main.py 2> /dev/null
+python3 --version
+gcc -Wall -Werror -Wextra -pedantic -std=c99 -shared -Wl,-soname,libPython.so -o libPython.so -fPIC -I/usr/include/python3.4 103-python.c
+./103-tests.py 
+ls
+chmod +x
+ls
+chmod u+x *
+ls
+chmod u-x README.md
+ls
+git add .
+git commit -m "python-exceptions"
+git push
+ls
+cd alx-higher_level_programming 
+ls
+mkdir 0x06-python-classes
+cd 0x06-python-classes
+ls
+vi README.md
+git add .
+git commit -m "python-classes"
+git push
+vi 0-square.py
+vi 1-square.py
+vi 2-square.py
+vi 3-square.py
+vi 4-square.py
+vi 5-square.py
+vi 6-square.py
+vi 100-singly_linked_list.py
+vi 101-square.py
+ls
+chmod u+x *
+ls
+chmod u-x README.md
+ls
+clear
+cat 0-main.py
+vi 0-main.py
+./0-main.py
+vi 1-main.py
+vi 2-main.py
+vi 3-main.py
+vi 4-main.py
+vi 5-main.py
+vi 6-main.py
+vi 100-main.py
+vi 101-main.py
+vi 102-main.py
+ls
+chmod u+x *
+ls
+chmod u-x README.md
+ls
+git add .
+betty 0-main.py    100-main.py                102-main.py  3-square.py  5-square.py
+0-square.py  100-singly_linked_list.py  2-main.py    4-main.py    6-main.py
+1-main.py    101-main.py                2-square.py  4-square.py  6-square.py
+betty 0-main.py    100-main.py                102-main.py  3-square.py  5-square.py
+betty 0-square.py  100-singly_linked_list.py  2-main.py    4-main.py    6-main.py
+betty 1-main.py    101-main.py                2-square.py  4-square.py  6-square.py
+betty 1-square.py  101-square.py              3-main.py    5-main.py
+ls
+git add .
+git commit -m "python-classes"
+git push
+vi 102-square.py
+vi 103-magic_class.py
+betty 102-square.py 103-magic_class.py
+chmod u+x
+chmod u+x *
+ls
+chmod u-x README.md
+ls
+git add . 
+git commit -m "python-classes"
+git push
+ls
+cd alx-higher_level_programming
+ls
+cd 0x06-python-classes
+ls
+cat 3-main.py
+./3-main.py
+ls
+cat 4-main.py
+./4-main.py
+cat 5-main.py
+./5-main.py
+cat 6-main.py
+./6-main.py | tr " " "_" | cat -e
+ls
+cat 100-main.py
+./100-main.py
+cat 101-main.py
+./101-main.py | tr " " "_" | cat -e
+cat 102-main.py
+./102-main.py
+MagicClass
+__init__MagicClass 
+ls
+git add .
+git commit -m "python-classes"
+git push
+clear
+ls
+vi 6-square.py
+git clone https://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@github.com/HindZiki/alx-system_engineering-devops.git
+ls
+clear 
+cd alx-system_engineering-devops
+mkdri command_line_for_the_win
+mkdir command_line_for_the_win
+cd ommand_line_for_the_win
+clear 
+ls
+cd command_line_for_the_win
+vi README.md
+git add .
+git commit -m "Up"
+git push
+git pull
+la
+vi README.md
+git add .
+git commit -m "Up"
+git push
+ls
+rm -r u+x *
+rm -r u+x 
+rm -r 0036d05c-9574-4144-a9ed-c35a0d079c1a.jpg  10c62562-248d-408a-8664-938100de52f3.jpg  897af68e-8bb1-4e70-a0b8-201b0d951c53.jpg  b3785fdc-540a-4a1e-a00d-fb06dc2a53f0.jpg
+057c6f73-92c5-41a9-91e0-448640e9b1ae.jpg  480608bd-790f-4293-9960-2ac101c89b3d.jpg
+clear
+ls
+clear 
+ls
+git add .
+gt commit -m "Remove"
+git commit -m "Remove"
+git push
+clear 
+vi README.md
+git add .
+git commit -m "Remove"
+git push
+vi README.md
+git add .
+git commit -m "Remove"
+git push
+git push -f
+clear 
+ls
+git pull
+ls
+clear 
+git pull
+cd ..
 exit
